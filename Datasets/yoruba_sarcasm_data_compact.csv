@@ -1,0 +1,437 @@
+S/N,statement,target,source,text_origin
+1,"Lẹyin ounjẹ, ounjẹ lokan. Emi lokan!",sarcastic,X,original
+2,"A kò gbọ́dọ̀ purọ́, a kò gbọ́dọ̀ jale, Yorùbá dùn gan!",non-sarcastic,X,original
+3,"Kò sí bí o bá ṣe ń jìyà tó, má ṣe béèrè ìrànlọ́wọ́ lọ́wọ́ ẹnikẹ́ni. Bó tilẹ̀ jẹ́ pé o lè kú nígbà sórí ìjìyà náà, kò sí ẹni tí yóò lè sọ pé òun ti ràn ọ́ lọ́wọ́ rí",sarcastic,Instagram,original
+4,Àsàsí kìí ran baby. Ẹ wí fún aláwo yin tó ní ki ẹ mú orúkọ wá,non-sarcastic,X,original
+5,"Oṣólẹ̀ Twitter ti gbórí wọlé o, wọ́n ti ń bèèrè wípé kíni orúkọ wà àti orúkọ ìyá tó bí wa lọ́mọ",sarcastic,X,original
+6,"Tí o bá ṣe ẹ̀ṣẹ̀ kan tí àwọn agbófinró sì ń wá ọ pẹ̀lú ẹ̀bùn tí a gbé lé ọ lórí, lọ kí o sì fi ara rẹ hàn ní àgọ́ ọlọ́pàá. Bó tilẹ̀ jẹ́ pé wọ́n lè fi ọ́ sẹ́wọ̀n, o lè gba ẹ̀bùn náà láti àgọ́ ọlọ́pàá.",sarcastic,Instagram,original
+7,"Wọ́n ní àwọn kàn fẹ́ lo ọgbọ́n àrékérekè fún wa ni, ni mo ba kí wọn wípé adúpẹ́ tí kò jù báyẹn lọ. Ìyẹn ṣí dára ju jíjàwá lólè lọ",sarcastic,Facebook,original
+8,"A tọrọ owó lọwọ yín, ẹ sì ní kí a wáa gba nílé, èwo ló wáá fa ẹ̀wọ̀n?",non-sarcastic,Facebook,original
+9,Ọmọ náà pupa bíi tááyà ọkọ,sarcastic,Crowdsourcing,original
+10,"Ìwọ lo gbọ́n jù nínú gbogbo ọmọ tí ìyá rẹ bí, ọlọ́pọlọ ẹja",sarcastic,Crowdsourcing,original
+11,"Àìgbọ́fá là ń wòkè, ifá kan kòsí ní párá",non-sarcastic,Crowdsourcing,original
+12,Ọ fẹ́ẹ́ mọ ibi tó yẹ kí o gbesí àbí?  O lè wáá gbe sími lórí,sarcastic,Crowdsourcing,original
+13,Kò níí da fún ọmọ ìyá tí kò fẹ́ràn ara wọn,non-sarcastic,Facebook,original
+14,"Ó bimí léèrè wípé eré wo ni ká wò, mo sì nì kó jẹ́ kí a wo wèrè",sarcastic,Facebook,original
+15,"Má bẹ̀rù láti wà ní àtìmọ́lé, nítorí o lè pàdé olùrànlọ́wọ́ rẹ níbẹ̀, bó tilẹ̀ jẹ́ pé o máa jìyà nínú ẹ̀wọ̀n.",sarcastic,Instagram,original
+16,Oò ṣe kúkú lọ gbé gbogbo ẹrù rẹ kí o ṣí mọ́rí kí o máa bọ̀ nílé ọkọ tèmi?,sarcastic,Facebook,original
+17,"Tí o bá yá ẹnìkan lowó tí o kò sì mọ ibi tí ó wà mọ́, wá ẹnìkan tí ó sún mọ́ ọn kí o sì tún yá ìyẹn náà lówó, bó tilẹ̀ jẹ́ pé o lè má rí owó méjèèjì gbà",sarcastic,Instagram,original
+18,"Ọmọ yí gọ̀, ó fi ẹnu ọ ara",non-sarcastic,Crowdsourcing,original
+19,Òṣèlú ilẹ̀ Nàìjíríà ló dára jù ní gbogbo àgbáyé!,sarcastic,Crowdsourcing,original
+20,A nílo àwọn aṣojú tó kájú òṣùwọ̀n,non-sarcastic,Crowdsourcing,original
+21,Ìwúrí ńlá ni fún mi pé ààrẹ ẹgbẹ́ ọmọ Yorùbá ni ìlú Faransé wá si pápákọ̀ òfúrufú láti wá gbé mi loni ni ìlu parisi lai fun wọn asiko tó tó,non-sarcastic,X,original
+22,"Awakọ̀ kan wa ọkọ̀ wọ ààrin èrò níbi tí wọn tí ń ṣ'àjọ̀dún, ọ̀pọ̀ ẹ̀mí sùn",non-sarcastic,BBC News,original
+23,"Gbogbo ẹ̀ka ọrọ̀ ajé, ètò ìrìnnà, iléèwòsàn, àti àwọn ilé ìtajà ló ti dẹnukọlẹ lẹ́yìn tí iná lọ ní orílẹ̀èdè méjèéjì.",non-sarcastic,BBC News,original
+24,Ṣé lóòtọ́ ni Gómìnà Adeleke ń gbèrò láti bẹ́ kìjà kúrò ní PDP lọ sí APC?,non-sarcastic,BBC News,original
+25,Ṣé lóòótọ́ ni pé Naijiria ti di orílẹ̀èdè ẹlẹ́gbẹ́ òṣèlú kan?,non-sarcastic,BBC News,original
+26,Kò ṣe é má gbọ̀ ọ́,non-sarcastic,BBC News,original
+27,"""Wọ́n fẹ́ pààyàn ni"" - BBC ṣe ìdánimọ̀ àwọn ẹ̀ṣọ́ aláàbò tó yìnbọn p'àwọn tó ṣèwọ́de tako owó orí tuntun ní Kenya",non-sarcastic,BBC News,original
+28,"Lẹ́yìn ìsìnkú Póòpù Francis, Ìjọ Kátólíìkì kéde ọjọ́ tí wọn yóò yàn póòpù tuntun",non-sarcastic,BBC News,original
+29,NDIC bẹ̀rẹ̀ sísan owó fún àwọn tó fowópamọ́ sí Heritage Bank to kógbáwọlé,non-sarcastic,BBC News,original
+30,Ẹsẹ̀ ẹlẹ́sẹ̀ níí gbé òkú wọ isà,non-sarcastic,YouTube,original
+31,FBI mú èèyàn 22 ní Naijiria fún ẹ̀sùn fífi àwòràn ìhòhò lu jìbìtì lórí ayélujára,non-sarcastic,BBC News,original
+32,Àjọ NAPTIP dóòlà ọmọ Naijiria mẹ́sàn-an tí wọ́n fẹ́ẹ́ tàn ṣòwò ẹrú lọ si Libya,non-sarcastic,BBC News,original
+33,"Ìbúgbàmù Iran gbẹ̀mí èèyàn méjìdínlógún, 800 míì farapa",non-sarcastic,BBC News,original
+34,"Oyinkan Abayomi: Ajàfẹ́tọ̀ọ́ ẹni tó dá ẹgbẹ́ òṣèlú obìnrin àkọ́kọ́ sílẹ̀, tó tún jà fún ètò ẹ̀kọ́, ìṣèlú àti òmìnira obìnrin",non-sarcastic,BBC News,original
+35,Bí ètò ìsìnkú Pope Francis yóò ṣe wáyé àti àwọn èèyàn tí yóò wà níbẹ̀,non-sarcastic,BBC News,original
+36,"NiMET dá ìyanṣẹ́lódì dúró, fún ìjọba ní gbèdéke láti dáhùn àwọn ìbéèrè wọn",non-sarcastic,BBC News,original
+37,Àwọn òrìṣà méje ìṣẹ̀mbáyé tó di ilẹ̀ gbogbo àgbáyé mú,non-sarcastic,BBC News,original
+38,"Alàgbà ni ọkọ mi ní ṣọ́ọ̀ṣì, wòólì ni mí fún ogún ọdún kí ń tó di Yeye Olokun - Omolara Fanimokun",non-sarcastic,BBC News,original
+39,Iléeṣẹ́ ológun bẹ̀rẹ̀ ìgbésẹ̀ ọ̀tun lóri ẹgbẹ́ agbébọn Mahmuda tó n ṣoro ní Kwara,non-sarcastic,BBC News,original
+40,"'Gbèsè ni mo fi tọ́ àwọn ìbejì tó gba First Class, tayọ jù lọ ní UI'",non-sarcastic,BBC News,original
+41,"'A kàn ṣàdédé rí àwọn agbébọn tí wọ́n ṣíná ìbọn bolẹ̀, pa èèyàn mẹ́jọ, inú ìbẹ̀rù là ń gbé báyìí'",non-sarcastic,BBC News,original
+42,"Ẹ fura o! Èèyàn 135,000 ló ní HIV l'Eko nìkan - Wo bí o ṣe lè dáàbò bo ara rẹ",non-sarcastic,BBC News,original
+43,Báwo ni àwọn ohun èèlò ìkunjú tí ò ń lò ṣe burú sí?,non-sarcastic,BBC News,original
+44,Ṣé lóòótọ́ ni pé ilé ejọ̀ ní kí wọ́n fi Simon Ekpa ránṣẹ́ sí Naijiria?,non-sarcastic,BBC News,original
+45,"Ọwọ́ ọlọ́pàá tẹ àwọn tó ń fi èèyàn ṣòwò ẹrú ní Ibadan, dóòlà èèyàn 84",non-sarcastic,BBC News,original
+46,Wọ́n ti sin òkú Pope Francis - Ẹ wo bí ètò ìsìnkú nàá ṣe lọ,non-sarcastic,BBC News,original
+47,"Akọrin tàkasúfèé, Terry Apala, di èèrò ẹ̀wọ̀n fún ẹ̀sùn pé ó tàbùkù owó náírà",non-sarcastic,BBC News,original
+48,Ó sàn kí o dá ilémoṣú ju kí o máa tẹríba fọ́kùnrin lọ,sarcastic,BBC News,original
+49,Wo ànfààní tó wà nínú jíjẹ́un làí kánjú,non-sarcastic,BBC News,original
+50,Bí o ṣe le lo Etí Erin (Aloe Vera) fún ìṣaralóge àti ìwòsàn àgọ́ ara,non-sarcastic,BBC News,original
+51,Ǹ jẹ́ ò ń fọ nǹkan ìmumi rẹ dáadáa bó ṣe yẹ?,non-sarcastic,BBC News,original
+52,Ṣe ó ṣeéṣe kí wọ́n yan Póòpù tuntun láti Africa?,non-sarcastic,BBC News,original
+53,"Láti ìbẹ̀rẹ̀ ni ọkọ mi ti lawọ́ sí mi, lèmi náà gbọdọ̀ ṣe jẹ́ ọmọ dáadáa - Shade Okoya",non-sarcastic,BBC News,original
+54,"'Ebi kọ́ ló mú kí àwọn ọmọ mi máa bá mi ṣiṣẹ́ fọga, kí ọjọ́ ọ̀la wọn le dára ni'",non-sarcastic,BBC News,original
+55,'Mò n fi èdè Ìjẹ̀bú kọ́ àwọn akẹ́kọ̀ọ́ mi ní ìṣirò nítorí mo fẹ́ kó yé wọn dáàdáà',non-sarcastic,BBC News,original
+56,"Ìlú Igboho rèé, níbi tí ọba mẹ́ta ti ń ṣèlú, ta ni ojúlówó ọba láàrin wọn?",non-sarcastic,BBC News,original
+57,Ṣó o láyà? Tope Osoba fakọyọ nínú ìmọ̀ èdè Yoruba,non-sarcastic,BBC News,original
+58,"""N kò bẹ̀rẹ̀ iṣẹ́ ilé kíkùn pẹ̀lú owó gbígbà, owó ọkọ̀ àti oúnjẹ Noodles nìkan ni wọn ń fún mi""",non-sarcastic,BBC News,original
+59,"""Àpá tó so sí àgbọ̀n mi (Keloid) ló fa iṣẹ́ abẹ, mo lọ tan iná sójú ọgbẹ́ náà àmọ́ UCH fọ́ mi lójú""",non-sarcastic,BBC News,original
+60,"Russia rọ̀jò àdó olóró sórí Ukraine, èèyàn 34 kú, 117 míì farapa",non-sarcastic,BBC News,original
+61,Ohun tó yẹ kí o mọ̀ nípa ẹgbẹ́ agbébọn Mahmuda tó ń ṣoro nípìnlẹ̀ Kwara,non-sarcastic,BBC News,original
+62,Báwo ni wọ́n ṣe ń yan Póòpù tuntun?,non-sarcastic,BBC News,original
+63,Pásítọ̀ kó sí gbaga fún ṣíṣe aṣemáṣe pẹ̀lú ọmọdé tó jẹ́ àkàndá l'Ondo,non-sarcastic,BBC News,original
+64,"Afurasí tó ń ṣagolo-ṣàgò gún ọmọ-ọmọ olórin Asiko, Comfort Omoge pa l'Ondo",non-sarcastic,BBC News,original
+65,"Èyí ni ìdí tí mo ṣe fi iṣẹ́ Fada sílẹ̀ nínú ìjọ Àgùda, tí mo sì di oníṣẹ̀ṣe",non-sarcastic,BBC News,original
+66,"Ọmọ Ghana mẹ́sàn án tí wọ́n fi iṣẹ́ tàn kúrò nílé, bá ara wọn nígbèkùn  ní Mowe, nípìnlẹ̀ Ogun",non-sarcastic,BBC News,original
+67,"Francis, ẹ̀ṣọ́ aláàbò nílé ijó tó di Póòpù tó mú àyípadà ńlá bá ìjọ Kátólíìkì",non-sarcastic,BBC News,original
+68,"Kìnìún wọ ilé onílé, ó pa ọmọ ọdún mẹ́rìnlá",non-sarcastic,BBC News,original
+69,"Àwọn ajínigbé ṣọṣẹ́ ní Kwara, jí gbogbo èèrò inú ọkọ̀ gbé",non-sarcastic,BBC News,original
+70,Lo ojú òpó yìí láti mọ̀ bóyá o ní ìfúnpá gíga tàbí wà nínú ewu láti ní i,non-sarcastic,BBC News,original
+71,Akẹ́kọ̀ọ́ fásitì OAU gan mọ́ iná lásìkò tó ń gbá bọ́ọ̀lù,non-sarcastic,BBC News,original
+72,"Christian Chukwu, akọ́nimọ̀ọ́gbá Super Eagles tẹ́lẹ̀, jáde láyé",non-sarcastic,BBC News,original
+73,Kí ló dé tí ẹnu fi ń kun ẹgbẹ́ agbábọ́ọ̀lù 3SC ilẹ̀ Ibadan?,non-sarcastic,BBC News,original
+74,"Ṣé lóòtọ́ọ́ ní pé gbèsè ló lé Segun Olanrewaju, abẹ̀sẹ́kùbíòjò tó kú lójú ìjà, padà sídìí ẹ̀ṣẹ́ kíkàn? Àwọn mọ̀lẹ́bí rẹ̀ sọ̀rọ̀",non-sarcastic,BBC News,original
+75,"Abẹ̀ṣẹ́kú-bí-òjò, George Foreman, jáde láyé",non-sarcastic,BBC News,original
+76,"Bàbá onílé yìnbọn mọ́ ọmọdé tó gbá bọ́ọ̀lù sínú ọgbà ilé rẹ̀, ọ̀rọ̀ bẹ́yìn yọ",non-sarcastic,BBC News,original
+77,'Ìfẹ́ tí mo ní sí ọ̀bọ ló jẹ́ kí n bẹ̀rẹ̀ eré ìdárayá lílo ọwọ́ àti ẹsẹ̀ fi sáré',non-sarcastic,BBC News,original
+78,"Karim Adeyemi, agbábọ́ọ̀lù ọmọ Naijiria tó ń ran àwọn ọ̀dọ́ lọ́wọ́",non-sarcastic,BBC News,original
+79,"Mọ̀ nípa ọdún eégún ìlú Ekan-Meje, níbi tó ti jẹ́ èèwọ̀ láti gbé àjẹkù oúnjẹ́ lọ sílé látibi ọdún",non-sarcastic,BBC News,original
+80,Eniola Badmus àti Laide Bakare fìjà pẹ́ẹta níbi ìfilọ́lẹ̀ fíìmù Eniola Ajao,non-sarcastic,BBC News,original
+81,"Wo iléẹ̀kọ́ àwọn olóyún tí wọn ti ń gba àmì ẹ̀yẹ fún ijó jíjó, oge ṣíṣe àti ìmọ́tótó",non-sarcastic,BBC News,original
+82,Agbébọn jí pásítọ̀ gbé lásìkò ìwàásù nínú ṣọ́ọ̀ṣì,non-sarcastic,BBC News,original
+83,Mi ò kábàmọ́ọ̀ pé ìyàwó mi tó kú nigbà tó fẹ́ bímọ kò forúkọ sílẹ̀ nílé ìwòsàn - Folajimi,non-sarcastic,BBC News,original
+84,Àní ká fi ọ̀rọ̀ ọ̀hún mu tábà ní gbẹ́rẹ́fu. Ọ̀rọ̀ burúkú tòun tẹ̀rín,non-sarcastic,BBC News,original
+85,Ẹ tún fẹ́ gbé wa mọ́ra àbí? Ẹ ti pawó sápò yín tán àbí bẹ́ẹ̀ kọ́?,non-sarcastic,BBC News,original
+86,"Pàtàkì ni oyè Kudẹfù lóde Ọ̀yọ́, Gẹ́gẹ́bí aláàfin tó bá jẹ, bí èèyàn bá ti jẹ Kúdẹfù kò gbọdọ̀ fi ààfin Ọ̀yọ́ sílẹ̀",non-sarcastic,X,original
+87,Ọ̀pọ̀lọpọ̀ fóònù olówó iyebíye tuntun ló jóná nínú ìjàmbá iná ọ̀hún,non-sarcastic,BBC News,original
+88,"Nlẹ o, abéwúrẹ́ sọ̀rọ̀, wọ́n ti kọ̀ǹgọ́ bọ ìlù",non-sarcastic,BBC News,original
+89,"Ìgbà gbá mi dànù, mo wá ńhùwà bí àkọ́ọ̀gbà",sarcastic,YouTube,original
+90,Ata gígún ni ilé ayé,sarcastic,YouTube,original
+91,O ti ní ìríríi táláká púpọ̀,sarcastic,YouTube,original
+92,"Níbi tí mo ti ń ṣiṣẹ́, bàbá, mo wọ́ ike owó kan ni jàre",sarcastic,YouTube,original
+93,Kílọdé tí o ní éńjìnì Benz tí o wá ńfi kórópe wàá?,sarcastic,YouTube,original
+94,"Tí wọ́n bá ti nfi ọkọ ayọ́kẹ́lẹ́ gbe ènìyàn, yóò ma yọ́ kẹ́lẹ́kẹ́lẹ́ nọ́ọ̀ni",sarcastic,YouTube,original
+95,"Lẹ́yìn ò rẹyìn, EFCC ṣàlàyé ìdí tí VDM fi wà ní àhámọ́ rẹ̀",non-sarcastic,YouTube,original
+96,Ọọ̀ní ṣe pàtàkì fún ìṣọ̀kan àti ìlọsíwájú Naijiria – Goodluck Jonathan,non-sarcastic,YouTube,original
+97,"Ìdí rèé tí Ọlọ́pàá àti Amotekun ṣe kọjú ìjà síra wọn l'Ondo, tí ọ̀pọ̀ èèyàn sì farapa",non-sarcastic,BBC News,original
+98,"Kí ló ń fa àṣìṣe lórí ètò ẹ̀yáwó akẹ́kọ̀ọ́, táwọn akẹ́kọ̀ọ́jáde fi ń rí ẹ̀yáwó náà gba?",non-sarcastic,BBC News,original
+99,"""Amotekun gbé àbúrò mi lọ́jọ́ Àìkú, pa á lọ́jọ́ Ajé, ọ̀gá wọn ń bẹ̀ mi, kí ń gba N1m láti fi sin ín""",non-sarcastic,BBC News,original
+100,Ìyàwó ilé méjì dèrò ẹ̀wọ̀n fún fífi PoS ta owó náírà tó tó N3.8m àti N1.6m,non-sarcastic,BBC News,original
+101,Ọlọ́pàá ṣàwárí obìnrin tó sọnù láti ọdún 1962,non-sarcastic,BBC News,original
+102,Àlàyé lórí ìdí tí Ààrẹ Togo fi lè wà nípò títí láí,non-sarcastic,BBC News,original
+103,Ìjọ Àgùdà korò ojú sí Trump lórí àwòrán ara à rẹ̀ bíi Póòpù tó gbé síta,non-sarcastic,BBC News,original
+104,Wọ́n sọ fún ìyá mi láti jù mí nù ní kékeré nítorí mo ní àìsàn 'Sickle Cell' àmọ́ mo tí pé ọdún 65 báyìí',non-sarcastic,BBC News,original
+105,Wo àwọn nǹkan tó yẹ láti ṣe tí o bá fẹ́ máa lo ẹ̀rọ a-mú-oúnjẹ-gbóná,non-sarcastic,BBC News,original
+106,Ọlọ́pàá bá òkú ọmọ Nàìjíríà tí wọ́n gún pa sínú ilé ní ó ku ọ̀sẹ̀ méjì tó máa parí ìkẹ́kọ̀ọ́ nọ́ọ̀sì ní US,non-sarcastic,BBC News,original
+107,"Èmi ni Ọba Fuji, kí Kwam 1 má pe ara rẹ̀ bẹ́ẹ̀ mọ́ – Kollington Ayinla",non-sarcastic,BBC News,original
+108,Ǹjẹ́ òfin fàyè gba Gómìnà láti fẹgbẹ́ òṣèlú rẹ̀ sílẹ̀ darapọ̀ mọ́ òmíràn? Ohun tí a mọ̀ rèé,non-sarcastic,BBC News,original
+109,Ìjọba Saudi Arabia kéde ìjìyà tuntun fún àwọn tó ń wọ ilẹ̀ náà lọ́nà àìtọ́,non-sarcastic,BBC News,original
+110,Mo bù sẹ́kún nígbà tí mo rí fọ́nrán àwọn èèyàn kan tó ń fi mí ṣe yẹ̀yẹ́ nítorí mi ò lọ́kọ - Funke Akindele,non-sarcastic,BBC News,original
+111,Darandaran tó fi mààlúù jẹko l'Ondo gba ìdájọ́ ẹ̀wọ̀n ọdún mẹ́wàá,non-sarcastic,BBC News,original
+112,Mọ̀ nípa àtunṣe márùn-un ti INEC fẹ́ẹ́ ṣe sí òfin ìdìbò ilẹ̀ Naijiria,non-sarcastic,BBC News,original
+113,A ò gbà pé ìdájọ́ òdodo ti wáyé lórí ikú Bamise tí awakọ̀ BRT pa - Ẹbí Bamise Ayanwola fárígá lẹ́yìn ìdájọ́,non-sarcastic,BBC News,original
+114,A ò bá ohun ìgbéṣùmọ̀mí lára Nnamdi Kanu -Ẹlẹ́rìí tí DSS pè,non-sarcastic,BBC News,original
+115,"Ìná tún sọ ní Ibadan, ọ̀pọ̀ dúkìá tún báa lọ",non-sarcastic,BBC News,original
+116,A ṣe àṣìṣe fífi ẹ̀sùn jìbìtì kan NELFUND- ICPC,non-sarcastic,BBC News,original
+117,E-Money kìlọ̀ lẹ́yìn tó bọ́ lọ́wọ́ EFCC - Ẹ yé tàbùkù owó náírà mọ́!,non-sarcastic,BBC News,original
+118,NIMC ṣe àfikún iye owó ìforúkọsílẹ̀ àti àtúnṣe NIN,non-sarcastic,BBC News,original
+119,Àwọn òṣìṣẹ́ bínú sí ìjọba Naijiria láyàájọ́ ọjọ́ òṣìṣẹ́,non-sarcastic,BBC News,original
+120,"Kúdẹ́fù, ẹrú tó di ẹmẹ̀wà Aláàfin tí kò sì gbọ́dọ̀ fi ààfin Ọ̀yọ́ sílẹ̀",non-sarcastic,BBC News,original
+121,Wo bí o ṣe lè mọ iléeṣẹ́ tó fi orúkọ sílẹ̀ pẹ̀lu CAC,non-sarcastic,BBC News,original
+122,"Owu Waterfalls, ibùdó afẹ́ 'tó léwu ní lílọ̀ láì mú ẹ̀ṣọ́ aláàbò dáni'",non-sarcastic,BBC News,original
+123,"Ta làwọn ọmọ ilẹ̀ Africa mẹ́ta tó ti jẹ Póòpù ìjọ Àgùdà, kí lò dé tí aláwọ̀ dúdú kankan kò dépo náà mọ́ lẹ́yìn wọn?",non-sarcastic,BBC News,original
+124,"Bí àwọn èèyàn bá rí mi, ọmọ gómìnà Adeleke ni wọ́n ń pè mí nítorí pé a jọra gidigidi'",non-sarcastic,BBC News,original
+125,Ọjọ́ mẹ́rin ni ọkọ mi fi sá kúrò nílé lẹ́yìn tó gbọ́ pé ìbẹta ni mo bí',non-sarcastic,BBC News,original
+126,"Gbèsè ni mo fi tọ́ àwọn ìbejì tó gba First Class, tayọ jù lọ ní UI'",non-sarcastic,BBC News,original
+127,"Ebi kọ́ ló mú kí àwọn ọmọ mi máa bá mi ṣiṣẹ́ fọga, kí ọjọ́ ọ̀la wọn le dára ni'",non-sarcastic,BBC News,original
+128,Mò n fi èdè Ìjẹ̀bú kọ́ àwọn akẹ́kọ̀ọ́ mi ní ìṣirò nítorí mo fẹ́ kó yé wọn dáàdáà',non-sarcastic,BBC News,original
+129,"Lẹ́yìn ọdún mẹta, erò ọkọ̀ ojú irin pàdé ẹni to jì i gbe ní mọ́ṣáláṣí",non-sarcastic,BBC News,original
+130,Ṣé lóòótọ́ ni CBEX ti bẹ̀rẹ̀ iṣẹ́ padà ní Naijiria?,non-sarcastic,BBC News,original
+131,"Ọ̀rọ̀ Soun Ogbomoso àtí Ìmáàmù Àgbà tún ṣẹ́yọ, Iléẹjọ́ so Ìmáàmù lọ́wọ́kọ́ lórí ìfinjoyè, Soun ní ìkọjá-àyè ni",non-sarcastic,BBC News,original
+132,Wọ́n rí òkú ọlọ́pàá mẹta tó di àwátì nínú odò lẹ́yìn ọjọ́ mẹ́fà,non-sarcastic,BBC News,original
+133,"Wo bí ayẹyẹ ìgbadé Owa Obokun tuntun, Adesuyi Haastrup, yóò ṣe wáyé n'Ilesa",non-sarcastic,BBC News,original
+134,"Nńkan ò ṣe mi o, mo wà láàyè -King Sunny Ade",non-sarcastic,BBC News,original
+135,Wọn ti ko ọmọ Naijiria 203 tó há sí Libya padà wálé,non-sarcastic,BBC News,original
+136,Ìfẹ́ tí mo ní sí ọ̀bọ ló jẹ́ kí n bẹ̀rẹ̀ eré ìdárayá lílo ọwọ́ àti ẹsẹ̀ fi sáré',non-sarcastic,BBC News,original
+137,Ọ́wọ ọlọ́wọ́ níí gbé òkú dé itẹ́,non-sarcastic,BBC News,original
+138,"Mohbad gba àmì ẹ̀yẹ Headies, wo bí àmì ẹ̀yẹ náà ṣe lọ lọ́dún yìí",non-sarcastic,BBC News,original
+139,"Àwọn ohun tó yẹ kí o mọ̀ nípa Robert Prevost Leo XIV, Póòpù tuntun fún ìjọ Kátólíìkì",non-sarcastic,BBC News,original
+140,Ọ̀ná là ní ẹnu ibodè Seme àti Badagry bí Tinubu ṣe fagilé ìgbégidínà lójú ọ̀nà Nàíjíríà sí ilẹ̀ Benin,non-sarcastic,BBC News,original
+141,"Ariwo sọ bí ọ̀dọ́bìnrin kan ṣe parọ́ pé wọ́n jí òun gbé lásìkò tó wà pẹ̀lú ọ̀rẹ́kùnrin rẹ̀, ọlọ́pàà sọ̀rọ̀",non-sarcastic,BBC News,original
+142,"""Kí àlááfíà wà pẹ̀lú yín"" Pope tuntun,  Leo XIV bá àgbáyé sọ̀rọ̀ fún ìgbà àkọ́kọ́",non-sarcastic,BBC News,original
+143,Kí ni ìdí tí India àti Pakistan fi ń jà sí agbègbè Kashmir?,non-sarcastic,BBC News,original
+144,"Joe Biden korò ojú pé Donald Trump ń sọ̀rọ̀ ṣàkàṣàkà, kò sọ̀rọ̀ bíi Ààrẹ Amẹ́ríkà",non-sarcastic,BBC News,original
+145,"""Lẹ́yìn tí Ajínigbé gba N14m owó ìtúsílẹ̀, àpò ìrẹsì, adìẹ méjìlá tí wọn dín gbẹ, ohun mímu 24, káàdì ìpè N10,000, wọ́n tún ń bèèrè N70m míì""",non-sarcastic,BBC News,original
+146,Ètò yíyan Póòpù tuntun ń tẹ̀síwájú bí èéfí dúdú ṣe jáde láti Sistine Chapel,non-sarcastic,BBC News,original
+147,"Àlàyé rèé lórí ìdí tí aáwọ̀ ẹgbẹ́ òṣèlú Labour ṣe ń le koko sí, bí igun Abure àti Usman se dojú ogun kọ ara wọn",non-sarcastic,BBC News,original
+148,Fídíò rèé nípa bí wọn ṣe máa ń yan Póòpù tuntun,non-sarcastic,BBC News,original
+149,"Ìdí rèé tí Bàálù Herbert Wigwe fi já ní Amẹ́ríkà èyí tó rán òun, aya àti ọmọ rẹ̀ sọ́run lójijì",non-sarcastic,YouTube,original
+150,"Ṣé lóòótọ́ ni Nnamdi Kanu pàṣẹ kí wọn máà pa àwọn ọlọ́pàá, tún lérí láti kọlu ìpínlẹ̀ Eko?",non-sarcastic,BBC News,original
+151,Àlàyé rèé lórí ìdí tí Póòpù fi máa ń wọ bàtà pupa àti ìdáhùn àwọn ìbéèrè míràn tó rú ọ lójú,non-sarcastic,BBC News,original
+152,Ìdí rèé tí mo ṣe lọ sọ́dọ̀ àjọ EFCC - Iyabo Ojo,non-sarcastic,BBC News,original
+153,"Kí ló ń jẹ́ ""Shadow Government"", tí Pat Utomi gbé kalẹ̀ láti tako ìjọba Tinubu?",non-sarcastic,BBC News,original
+154,"Bí ìgbẹ́jọ́ Alfa Abdulrahman tí wọn fẹ̀sùn ìfipábánilòpọ̀ àti ikú Afsot Yetunde kàn ní Ilorin ṣe lọ lónìí rèé, bí bàbá olóògbé ṣe bú sẹ́kún",non-sarcastic,BBC News,original
+155,"Boko Haram ti gboró, bàálù Drone ló ń lò láti kọlu aráàlú ní Borno - Aṣojú-ṣòfin",non-sarcastic,BBC News,original
+156,UK gbé ìlànà tuntun kalẹ̀ lórí 'Visa' gbígbà ní Nàìjíríà àti orílẹ̀èdè méjì míì,non-sarcastic,BBC News,original
+157,"Àlàyé rèé lórí ìdí tí ọ̀pọ̀ akẹ́kọ̀ọ́ ṣe fìdí rẹmi nínú ìdánwò UTME, bí JAMB ṣe kéde èsì ìdánwò náà",non-sarcastic,BBC News,original
+158,Wo ìgbeyàwó ọ̀pọ̀ èèyàn tó wáyé ní ṣọ́ọ̀ṣì kan níbi tí ọkùnrin ti ń fẹ́ ju ìyàwó kan lọ,non-sarcastic,BBC News,original
+159,Kà nípa àìsàn tó lè pa ọmọ ìkókó,non-sarcastic,BBC News,original
+160,"185,000 ọmọ ogun Russia ló ti bá ogun lọ ní Ukraine",non-sarcastic,BBC News,original
+161,"Nínú ọba 82, ìjọba kéde ojúlówó ọba 16 péré ní ilẹ̀ Benin, ariwo sọ",non-sarcastic,BBC News,original
+162,"""Orin Kèǹgbè jẹ́ orin àwa Fúlàní, àwọn Yorùbá kò mọ iyì rẹ̀""",non-sarcastic,BBC News,original
+163,'Wọ́n sọ fún ìyá mi láti jù mí nù ní kékeré nítorí mo ní àìsàn 'Sickle Cell' àmọ́ mo tí pé ọdún 65 báyìí',non-sarcastic,BBC News,original
+164,"'Bí àwọn èèyàn bá rí mi, ọmọ gómìnà Adeleke ni wọ́n ń pè mí nítorí pé a jọra gidigidi'",non-sarcastic,BBC News,original
+165,'Ọjọ́ mẹ́rin ni ọkọ mi fi sá kúrò nílé lẹ́yìn tó gbọ́ pé ìbẹta ni mo bí',non-sarcastic,BBC News,original
+166,"Baálẹ̀ Yemi Ogunyemi, Baálẹ̀ Oluyole àti àgbà ọ̀jẹ̀ agbóhùnsáfẹ́fẹ́, jáde láyé",non-sarcastic,BBC News,original
+167,Russia fẹ̀sùn kan Ukraine pé ó ju àdó olóró sí Moscow ṣáájú ayẹyẹ ogun àgbáyé kejì,non-sarcastic,BBC News,original
+168,Wo àwọn ọmọ Naijiria mẹ́fà tí ile-ẹjọ́ ti dájọ́ ikú fún,non-sarcastic,BBC News,original
+169,Ìyàwó gun ọkọ lọ́bẹ pa lẹ̀yìn ọjọ́ kẹsàn-án ìgbeyàwó,non-sarcastic,BBC News,original
+170,"Mọ̀ nípa Joan, obìnrin tó ṣe bí ọkùnrin tó fi di Póòpù ìjọ Àgùdà",non-sarcastic,BBC News,original
+171,"Tito Harrison, gbajúmọ̀ òṣèré tíátà ṣàlàyé àìsàn tó sọ ọ́ di aláìní, tó ṣe ń gbé ilé àna rẹ̀",non-sarcastic,BBC News,original
+172,Kí nídìí tí Póòpù tuntun fi yan Leo XIV gẹ́gẹ́ bí orúkọ oyè rẹ̀ tuntun?,non-sarcastic,BBC News,original
+173,Wo bí àwọn obìnrin ṣe ń rí ikú he láti ọwọ́ àwọn ọkùnrin ní Naijiria,non-sarcastic,BBC News,original
+174,Ẹgbẹ́ ọ̀dọ́ fún Gómìnà Adeleke ní gbèdéke ọjọ́ láti yanjú owó ilé tó ń fò lókè l'Osun,non-sarcastic,BBC News,original
+175,"""Mò ń kọ́ àwọn akẹ́kọ̀ọ́ ní ìmọ̀ ẹ̀kọ́ Kẹ́mísírì lédè Yorùbá, fún àgbéga akẹ́kọ̀ọ́ àti èdé abínibí""",non-sarcastic,BBC News,original
+176,Wo ìgbésẹ̀ tí o le è gbé láti mọ̀ bóyá ojúlówó ni nọ̀ńbà NIN rẹ àti ànfàní lílo rẹ̀,non-sarcastic,BBC News,original
+177,"Ilé aṣòfin bẹ̀rẹ̀ ìgbésẹ̀ láti sọ Aláàfin di alága ìgbìmọ̀ lọ́balọ́ba l‘Oyo, Olubadan ni igbákejì, Soun ni igbá kẹta, Olubadan bá yarí",non-sarcastic,BBC News,original
+178,"""Ọgbẹ́ ọkàn ló jẹ́ pé Faith, ọmọ mi pa ara rẹ̀ tórí ó gba máàkì kékeré nínú èsì ìdánwò JAMB""",non-sarcastic,BBC News,original
+179,Kí ló mú kí ìjọba Kwara gbé ilé ẹ̀kọ́ girama méjì tipa n'Ilorin?,non-sarcastic,BBC News,original
+180,"Ọdún Egúngún àgbáyé sọkutu wọ̀wọ̀ nílùú Ibadan, àlàyé rèé lórí ìsesí egúngún pàtàkì mẹ́wàá tó pitú",non-sarcastic,BBC News,original
+181,"""Ìyàwó àti ọmọ mi márùn-ún kú lọ́jọ́ kan ṣoṣo lẹ́yìn tí wọ́n jẹ ìrẹsì tán""",non-sarcastic,BBC News,original
+182,Jumoke George tí mọ ibi tí ọmọ rẹ̀ àmọ́ nǹkan kò fara rọ fún-un níbẹ̀ - Biola Bayo,non-sarcastic,BBC News,original
+183,Àwọn akẹ́kọ̀ọ́ àtàwọn òbí fẹ́ kí àjọ JAMB fagilé gbogbo èsì ìdánwò UTME tó jáde torí àṣìṣe tó wà níbẹ̀,non-sarcastic,BBC News,original
+184,Ìdí tí Tinubu ṣe fi òfin de kíkó àwọn ọjà  kan wọlé sí Nàíjíríà láti ilẹ̀ òkèèrè,non-sarcastic,BBC News,original
+185,Ohun tí a mọ̀ rèé nípa ‘ìrẹsì olóró’ tí wọ́n ló wọ ìpínlẹ̀ Ogun àti Eko,non-sarcastic,BBC News,original
+186,Wo bí ìmọ̀ ẹ̀rọ àtọwọ́dá àti àsọdùn ṣe ń gbóríyìn fún olórí ológun,non-sarcastic,BBC News,original
+187,"""Àwọn ológun wà níbí lóòótọ́, ṣùgbọ́n kò sí ààbò fún wa""",non-sarcastic,BBC News,original
+188,Wo eré tíátà mẹ́wàá tó sọ fíìmù Yorùbá di ìlúmọ̀ọ́ká ní àgbáyé,non-sarcastic,BBC News,original
+189,Wọ́n ti sin àgékù ara Hafsot Lawal tí afurasí Abdulrahman gé wẹ́lẹ́wẹ́lẹ́ n'Ilorin,non-sarcastic,BBC News,original
+190,Kí ni yóò ṣẹlẹ̀ s'áwọn akẹ́kọ̀ọ́ bí JAMB ṣe l'óun yóò ṣe àtúnyẹ̀wò èsì ìdánwo 2025?,non-sarcastic,BBC News,original
+191,Ọwọ́ NDLEA tẹ obìnrin tó gbé òògùn olóró pamọ́ sójú ara rẹ̀ lọ sí Iran,non-sarcastic,BBC News,original
+192,Ọ̀pọ̀ ọdún ni ọkọ mi fi lòògùn oorun fún mi kó lè baà ráàyè máa fipá bá mi lò pọ̀',non-sarcastic,BBC News,original
+193,Ìdí tí ọ̀pọ̀ èèyàn káàkiri àgbáyé ṣe fẹ́ràn ìjọba ológun Burkina Faso,non-sarcastic,BBC News,original
+194,"Ìgalà fa ìjàmbá fún bàálù Air Peace, ó tún ṣàkóbá fún ìrìnàjò òfurufú ní Delta",non-sarcastic,BBC News,original
+195,"Ìjàmbá tírélà ré kọ̀nténà lu ''dispatch rider' méjì l'Eko, wọ́n pàdánù ẹ̀mí wọn lójú ẹsẹ̀",non-sarcastic,BBC News,original
+196,"Ìdí tí ọlọ́pàá South Africa fi mú pásítọ̀ ọmọ Naijiria padà, lẹ́yìn tí iléẹjọ́ tú u sílẹ̀ lọ́gbà ẹ̀wọ̀n lórí ẹ̀sùn ìfipábánilòpọ̀",non-sarcastic,BBC News,original
+197,"Ǹjẹ́ ẹ ti gbọ́ nípa ìlú Ugbo nípìnlẹ̀ Ondo, níbi tó ti jẹ́ èèwọ̀ láti fẹ́ obìnrin pupa?",non-sarcastic,BBC News,original
+198,Ta a ni eku ẹdá tó tún dá wàhálà sílẹ̀ lẹ́yìn tí India àti Pakistan gbà láti sinmi ogun?,non-sarcastic,BBC News,original
+199,"Femi Adebayo, Mercy Aigbe, fíìmù Lisabi, àti àwọn míì tó borí níbi àmì ẹ̀yẹ 2025 AMVCA",non-sarcastic,BBC News,original
+200,Ilé-ẹjọ́ ju ọmọge tó pé 'Bàbá Aláàánú' rẹ̀ lẹ́jọ́ sẹ́wọ̀n,non-sarcastic,BBC News,original
+201,"Zobo ni Man City fi gba aṣo lára ewúrẹ́ Liverpool, ayé polúkúmuṣu mọ́ Liverpool lówọ́ lónìí",sarcastic,BBC News,original
+202,"Lẹ́yìn iṣẹ́ abẹ kejì ní ikùn rẹ̀, Taiwo Awoniyi jí sáyé padà, ó kúrò ní ẹsẹ̀ kan ayé, ẹsẹ̀ kan ọ̀run",non-sarcastic,BBC News,original
+203,"Palmer kó òtútù ká Wolves mọ́lé, níṣe ni ìkokò àti àwọn ọ̀tá Chelsea n gbọ̀n tẹnutẹnu",sarcastic,BBC News,original
+204,Wo ìrànlọ́wọ́ tó yẹ kí o ṣe fún ẹni tí rọpárọsẹ̀ bá kọlù lójijì,non-sarcastic,BBC News,original
+205,"""Ojú ọ̀nà Ikare sí Ogbagi di pàkúté ikú, ẹ̀mí arìnrìnàjò ń bọ́ púpọ̀ torí ìjàmbá ọkọ̀, ìkọlù adigunjalè àtàwọn ajínigbé""",non-sarcastic,BBC News,original
+206,Ẹ wo ààfin ìlù níbi tí wọ́n ti n bọ ilù gúdúgúdú tí obìnrin tó bá n ṣe nnkan oṣù kò gbọdọ̀ fọwọ́ kàn,non-sarcastic,BBC News,original
+207,"Mo ṣiṣẹ́ abẹ, wọ́n tún pàárọ̀ itan mi nítorí àìsàn ikọ́-ife inú egungun tó mú mi'",non-sarcastic,BBC News,original
+208,Ohun tó yẹ kí o mọ̀ nípa ètò ìlera Medipool tí ìjọba ṣẹ̀ṣẹ̀ buwọ́lù fún aráàlú,non-sarcastic,BBC News,original
+209,"Lateef Adedimeji, Mercy Aigbe, àti àwọn mìí bá BBC sọ̀rọ̀ lẹ́yìn tí wọ́n gba àmì ẹ̀yẹ̀ AMVCA",non-sarcastic,BBC News,original
+210,"Agbébọn kọlu ibùdó ọmọ ogun Naijiria, wọ́n jí ọ̀pọ̀ sọ́jà gbé lọ",non-sarcastic,BBC News,original
+211,"Ìjọba UK kéde ìlànà tuntun tí yóò bẹ́gi dínà àwọn tó fẹ́ kàwé, ṣiṣẹ́ tàbí gbé níbẹ̀",non-sarcastic,BBC News,original
+212,Àjọ NAPTIP kó ọmọ Naijiria 78 padà wálé lóko ẹrú láti Abidjan,non-sarcastic,BBC News,original
+213,Kí ni ìdí abájọ tí Pásítọ̀ Chris fi sọ pé òun máa jẹ iyọ̀ tó pọ̀ nínú oúnjẹ?,non-sarcastic,BBC News,original
+214,Sé lóòótọ́  làwọn agbégbọn kọ lẹ́tà pé àwọn tún fẹ́ kọlu ìjọ Aguda nílùú Owo? Ohun tí a mọ̀ rèé,non-sarcastic,BBC News,original
+215,Ìdí rèé tí iṣẹ́ ìtọ́jú èèyàn táwọn ọmọ ilẹ̀ òkèèrè ń ṣe ní UK yóò fi dópin láìpẹ́,non-sarcastic,BBC News,original
+216,"Wọ́n sọ iná sí ibùdó epo ní Port Sudan,  aráàlú ń kérora",non-sarcastic,BBC News,original
+217,Bàbá Mohbad le pe ẹjọ́ tako ìdájọ́ tó tú Naira Marley àti Sam Larry sílẹ̀ - Ilé ẹjọ́,non-sarcastic,BBC News,original
+218,Ìyàwó ilé tó di ògbóǹtarìgì nínú ìdíje àgbáyé fáwọn èèyàn tó sán eegun,non-sarcastic,BBC News,original
+219,"Ọkùnrin tí Salawa ń fẹ́ báyìí ń yá a lò ni, ìyàwó mi ni títí ayé - Kollington Ayinla",non-sarcastic,BBC News,original
+220,"Oun tí aráyé ń pè ní ""àṣeyọrí òjijì"" náà ni ọjọ́ tí ayé ṣe pẹ̀kí pẹ̀lú òtítọ́ tí o ti ń fi lògbà láti kánrinkese",non-sarcastic,X,original
+221,Àkókò ní ìlànà rẹ̀ tí yóò fi ṣe àfìhàn tàbí àyẹ́sí oun tí ó ní ìfaradà,non-sarcastic,X,original
+222,"Ìwọ, túbọ̀ dúró ṣinṣin pẹ̀lú òtítọ́ rẹ",non-sarcastic,X,original
+223,"Bí ẹ bá jẹ́ olùfẹ́ lítírésọ̀ Yorùbá, ó dá mi lójú pé àkàgbádùn ni ìwé ìtàn mi, tí àkọlé rẹ ń jẹ́ Ṣẹ̀gílọlá Arómirẹ́ Ògìdán yóò jẹ́ fún yín",non-sarcastic,X,original
+224,Wo àwọn oníjàkadì inú ẹrọ̀fọ̀ tó wá di ògo àgbáyé,non-sarcastic,BBC News,original
+225,"Lónìí ni èsì ìdánwò JAMB táwọn akẹ́kọ̀ọ́ 379,000 tún ṣe yóò jáde",non-sarcastic,BBC News,original
+226,Kí ló ṣokùnfà bí ẹlẹ́wọ̀n méje ṣe sá lọ lọ́gbà ẹ̀wọ̀n Osun lẹ́yìn àrọ̀ọ̀dá òjò?,non-sarcastic,BBC News,original
+227,Ọkọ dáná sun ìyàwó àti ọmọ nítorí owó oúnjẹ,non-sarcastic,BBC News,original
+228,Ìtàn bí ìwà ọ̀dàlẹ̀ ṣe mú egúngún wọ ìlú Omu-Aran àti bó ṣe di àṣà,non-sarcastic,BBC News,original
+229,"Àṣìta ìbọn 'ọlọ́pàá' ṣekú pa akẹ́kọ̀ọ́ tó ń ṣèdánwò WAEC n'Ibadan, àwọn olùfẹ̀hónúhàn gbé òkú rẹ̀ lọ ọ́fíìsì Makinde",non-sarcastic,BBC News,original
+230,'A kò lè sọ bóyá alága ẹgbẹ́ APC tí wọ́n jígbé l'Ondo ti kú tàbí kò tíì kú'',non-sarcastic,BBC News,original
+231,Mọ́gàjí Ogbomoso àti Ibadan tako àbá láti sọ Alaafin di alága láéláé ìgbìmọ̀ lọ́balọ́ba Oyo,non-sarcastic,BBC News,original
+232,"Ẹni tí a jọ ń gbé lábẹ́ òrùlé kan ló tà mí sóko ẹrú ní Mali – Adeola, ọmọ Jumoke George",non-sarcastic,BBC News,original
+233,"Ìfẹ̀hónúhàn wa kò lọ́wọ́ òṣèlú nínú, ìdí tí a fi wọ́de lórí ọ̀nà tí kò da rèé'",non-sarcastic,BBC News,original
+234,Mi ò mọ̀ pé mo lè dé ipò ọba - Owa Obokun tuntun Ilẹ̀ Ijẹsa,non-sarcastic,BBC News,original
+235,Ṣé lóòótọ́ ni àwọ́n jàǹdùkú kọlu Alabi Pasuma lóde eré ní Ikire?,non-sarcastic,BBC News,original
+236,"Kí ni Ààrẹ Tinubu, Peter Obi àti Kayode Fayemi bá ara wọn sọ nígbà tí wọ́n pàdé nibi ayẹyẹ Poopu ni Rome?",non-sarcastic,BBC News,original
+237,Perimenopause: Wo àwọn ọ̀nà mẹ́fà láti mójútó ìlera lásìkò tí nǹkan oṣù obìnrin ti fẹ́ dúró,non-sarcastic,BBC News,original
+238,"Mọ̀ nípa Opeyemi Bright, ọmọbìnrin Nàìjíríà tó di olórí ìjọba ìbílẹ̀ ní UK",non-sarcastic,BBC News,original
+239,Timothy Omotosho: Wo àwọn pásítọ̀ ọmọ Naijiria tó ti fìgbàkanrí ní ìṣòro òfin nílẹ̀ òkèèrè,non-sarcastic,BBC News,original
+240,"Ọmọkùnrin tó fi mílíọ̀nù kan Náírà, owó ọ̀gá rẹ̀, ta tẹ́tẹ́ dèrò ẹ̀wọ̀n",non-sarcastic,BBC News,original
+241,Ìdí tí mo fi pè fún àtúntò ìgbìmọ̀ àwọn ọba l' Oyo -Seyi Makinde,non-sarcastic,BBC News,original
+242,Èèyàn 27 tún kú nínú ìjamba ọkọ̀ ojú omi ní Kwara,non-sarcastic,BBC News,original
+243,"Kọngílá parí títì, àgbàrá òjò wọ́ọ lọ lọ́jọ́ kejì, Gómìnà Adeleke bá fárígá l'Osun",non-sarcastic,BBC News,original
+244,Ajínigbé ṣekúpa alága ẹgbẹ́ APC l'Ondo lẹ́yìn tí wọ́n kọ́kọ́ gba ₦5m owó ìtúsílẹ̀,non-sarcastic,BBC News,original
+245,Kí ló ṣẹlẹ̀ sí àgbà òṣèré Yemi My Lover tó fi ké gbàjarè pé òun nílò ìrànlọ́wọ́?,non-sarcastic,BBC News,original
+246,"Ìjàmbá ọkọ̀ gbẹ̀mí èèyàn méje, àwọn mẹ́rìndínlógún míì farapa",non-sarcastic,BBC News,original
+247,Àbọ̀ ìwádìí BBC rèé lórí ìrẹsì tí wọ́n ní ó ń pààyàn láti Seme,non-sarcastic,BBC News,original
+248,Njẹ́ o ti gbọ́ nípa àwọn ìlú mẹ́fà yìí níbi tí òòrùn ò kìí wọ̀ rárá?,non-sarcastic,BBC News,original
+249,Ìdí tí mo fi sunkún nígbà tí MKO Abiola jáde láyé - Alake ilẹ̀ Ẹ̀gbá,non-sarcastic,BBC News,original
+250,Ogún Naira ni mo gbà fún Sinímá Ọ̀pá Ajé tó sọ mí di olókìkí – Àjan Abija,non-sarcastic,BBC News,original
+251,Ṣó o l'áyà! Ẹ wo bí Eniola Ajao ṣe fakọyọ lórí ètò tí BBC fi n dàn ìmọ̀ èdè Yorùbá wò,non-sarcastic,BBC News,original
+252,"Ìfìyà-jẹ-ara ẹni ni Libya tí mo wá, mi ò tọrọ irú ẹ fún ọ̀tá mi'",non-sarcastic,BBC News,original
+253,Ọlọ́pàá ń lo àyẹ̀wò DNA láti ṣàwárí ìyá àwọn ọmo tí wọ́n rí nínú àpò lẹ́bá ọ̀nà,non-sarcastic,BBC News,original
+254,Kí ló kàn fún Simon Ekpa lẹ́yìn tí ìjọba Finland fẹ̀sùn ìdìtẹ̀mọ́jọba kàn án?,non-sarcastic,BBC News,original
+255,Ìbẹ̀rùbojo gbilẹ̀ lórí owó orí ẹran àgbò bí ìjọba ṣe fòfin dé kíkó àgbò lọ sórílẹ̀ èdè míì lásìkò Ileya,non-sarcastic,BBC News,original
+256,Ìbálòpọ̀ pẹ̀lú ìlérí góòlù - àṣírí ìwà àìtọ́ tó ń kojú àwọn ọmọdékùnrin kan láwọn ibùdó ìwakùsà tó lòdì sófin ni South Africa,non-sarcastic,BBC News,original
+257,Òkò ọ̀rọ̀ ń bọ́ bí Ibadan àti Oyo ṣe ń tahùn síra wọn lórí ẹni tí ipò alága ìgbìmọ̀ lọ́balọ́ba l'Oyo tọ́ sí,non-sarcastic,BBC News,original
+258,Ọdún ìtẹ́ ọba nìkan ni mo ti gbọdọ̀ jó lẹ́ẹ̀kan lọ́dún - Olomu ti Omu-Aran,non-sarcastic,BBC News,original
+259,Ohun tí a mọ̀ nípa afurasí tọ́wọ́ aráàlù tẹ̀ fẹ́sùn pé ó fẹ́ jí ọmọ gbé ní Ilorin,non-sarcastic,BBC News,original
+260,"Pẹ̀tẹ̀pẹ́tẹ̀ táa nà ní pọ̀pá, ẹníbá tabà kó lọ túnbẹ̀ ṣe",non-sarcastic,X,original
+261,E wo nínú yín ni ó fún ọmọ yìí lóyún 🤣🤣,non-sarcastic,X,original
+262,"Àgbáríjọ ẹgbẹ́ ọmọ Yorùbá ni Faransé, Ẹ ṣeun gan ni fún àmì ẹ̀yẹ ti ẹ fi dámilọ́lá.",non-sarcastic,X,original
+263,"Wàá ṣe bí ọkùnrin kí ìwọ náà tó lè jẹ́ ènìyàn pàtàkì, wá tiraka láti jẹ́ ẹni tí àwọn ènìyàn ń wárí fún un.",non-sarcastic,X,original
+264,"Àrà gbé láyé túmọ̀ sí wípé, wọ́n máa ń ra ayé gbé ní.",non-sarcastic,X,original
+265,Ọlọ́pàá bá òkú ọmọ Nàìjíríà tí wọ́n gún pa sínú ilé ní ó ku ọ̀sẹ̀ méjì tó máa parí ìkẹ́kọ̀ọ́ nọ́ọ̀sì ní US,non-sarcastic,BBC News,original
+266,"To ba ya won ma sope won ko ri alanu, bawo ni eniyan mase dagba lai ni opolo bio ti wun ko kere mo, won ko ma wuwa ti o ma se idina fun elomiran lati je anfaani",non-sarcastic,X,original
+267,"Tí èèyàn kò bá lówó lọ́wọ́, kí o gbìyànjú láti máa ṣe ìgbéraga",sarcastic,Instagram,original
+268,"Bí ẹ o ṣe lówó lọ́wọ́ yẹn, o yẹ kẹ máa jalè ni",sarcastic,Instagram,original
+269,"Oloyinbo ni '99 days for the thief, 1 day for the owner'. Ẹ o jalè fún 98 days, tó bá ti di 99th day, kí ẹ jáwọ́",sarcastic,Instagram,original
+270,"Bí o ba jalè, Ọlọ́run yóò fi mú àwọn ọ̀rẹ́ẹ̀ rẹ tí wọn kò ṣàánú rẹ ni, nítorí òó ba orúkọ wọn jẹ́ ni.  Àwọn ènìyàn yóò sọ wípé ọ̀rẹ́ olè, olè lòun náà",sarcastic,Instagram,original
+271,"Tí o bá nta tẹ́tẹ́ lójoojúmọ́, tí o ti wá nsọ owó nù jù, kí o máa mú ọtí mọ́ọ ni.",sarcastic,Instagram,original
+272,"Tí o bá ti fẹẹ pé ọgbọn ọdún láyé tí o tíì pàdé eegun tiẹ, gbé eegun eléegun ni.",sarcastic,Instagram,original
+273,"Nítorí Regina Daniels n mu igbó, kò túmọ̀ wípé ọmọ burúkú ni. Ó le jẹ́ igbó tí o n mu yi ni àwọn èèyàn a fi máa bọ̀wọ̀ fún ọkọ rẹ̀.",sarcastic,Instagram,original
+274,"Ẹ káre láí, Bùọ̀dá gbọ́mọgbọ́mọ😒",sarcastic,Instagram,original
+275,"Olókó dógidógi, káre!",sarcastic,Instagram,original
+276,"Wọn kò lè mu yín tí ẹ ba n jalè, ẹ ó fi ọpọlọ ja olè náà ni.",sarcastic,Instagram,original
+277,"Bí wọ́n ṣe dájọ́ fún yín wípé ẹ máa kú ní ọjọ́ méje, ẹ yà wọ́n lẹ́nu kí ẹ kú kí ó tó di ọjọ́ méje",sarcastic,Instagram,original
+278,"Tí ẹnikẹ́ni bá ní kí o má mú igbó, má ṣe dá wọn lóhùn o. Àbí kí lo fẹ́ẹ máa fi pa ìrònú rẹ? Ó kàn lè yà ẹ́ ní wèrè ni.",sarcastic,Instagram,original
+279,Oriogbade FC ti wá yarí kanlẹ̀ báyìí o. Kí ló ń ṣẹlẹ̀ gan-an gan-an ná ní pápá ìṣeré Emirates?,sarcastic,BBC News,original
+280,"Ọmọ tí yòó bá jẹ́ àṣàmú, kékeré ni yòó ti maa ṣẹnu ṣámú-ṣámú. Bùkáyọ̀ Saka, Oriogbade ooo",non-sarcastic,BBC News,original
+281,"Gbajúgbajà akọrin Afro beat, Seun Kuti, ní àìmọ̀kan ló jẹ́ káwọn olólùfẹ́ Wizkid máa fi Wizkid wé Abami Ẹda.",non-sarcastic,BBC News,original
+282,"Arsenal, Oriogbade FC, ṣìrìn nílé Aston Villa, àánú ikúnlẹ̀ abiyamọ ṣe wá nígbà tí ìfesewọnsệ parí",sarcastic,BBC News,original
+283,"Àmọ̀rí kọ́ ni ìṣòro ẹgbẹ́ agbábọ́ọ̀lù Manchester United. Ẹ̀san òjóóró tí wọ́n ṣe nígbà tí Alex Ferguson jẹ́ Kóòsì wọn ló ń ké lórí wọn. Bí wọ́n ò bá múra, wọ́n máa religéètì gbẹ̀yìn..",sarcastic,Facebook,original
+284,"Ṣé ọ̀rọ̀ yìí kò ti di ẹni a lè mú làá lẹ̀dí mọ́ báyìí? Níbo ni Arsenal, Oriogbade, fi gbogbo góòlù yìí sí nígbà tí wọ́n kojú Liverpool?",sarcastic,BBC News,original
+285,"Bí olóde kò bá kú, ojúde rẹ̀ kìí hu gbẹ́gi - ẹ̀yà koríko kan.",non-sarcastic,BBC News,original
+286,"Ríru omi òkun, kò ní kí ẹja má sùn, kò ní kí ẹja má han oorun. Bí omi òkun ṣe ń ru tó, èyí kò di ẹja lọ́wọ́ oorun",non-sarcastic,BBC News,original
+287,"Ọmọdé tó bá mọ ọwọ́ wẹ̀, yóò bá àgbà jẹun.",non-sarcastic,BBC News,original
+288,Arsenal gbẹ̀san ìyà tí Aston Villa fi jẹ wọ́n lára Club Brugge tí kò mọwọ́ mẹsè.😀,sarcastic,BBC News,original
+289,"Àgbà òǹkọ̀wé Nàìjíríà, Wole Soyinka ní àwọn ọmọ ogun ilẹ̀ àti òfurufú tí Ààrẹ Tinubu rán lọ sí orílẹ̀ èdè Benin kọ́ ló yẹ kó rán, pé Seyi Tinubu lásán ti tó.",sarcastic,BBC News,original
+290,"Ẹ̀yin ti Chelsea, ṣé ẹ fẹ́ pa orúkọ dá sí Anakaye FC ni?",sarcastic,BBC News,original
+291,Sheikh Gumi ní káàkiri àgbáyé ni wọ́n ti máa ń bá àwọn agbébọn jíròrò láti dènà ìtàjẹ̀sílẹ̀.,non-sarcastic,BBC News,original
+292,"Leeds United ló kọ́kọ́ dá ṣèríà fún Chelsea, kí Atalanta tó f'ọba leè ní ìdíje UEFA Champions League.",sarcastic,BBC News,original
+293,"Olúwa tó yí orúkọ Ábráhámù àti Jákọ́bù padà, yi o báwa yí orúkọ Arsenal tí 'BBC News Yoruba' ti sọ di 'Oriogbade' padà sí 'Oriade' 🙏",sarcastic,Facebook,original
+294,"Ayé ò! Atalanta lagi mọ́ Chelsea lórí láwọlé sùn, fa aṣọ iyì ya mọ́ Aníyìkáyé FC lára.",sarcastic,BBC News,original
+295,Seyi Tinubu ló yẹ kí Aàre rán lọ ṣe ìdádúró ìdìtẹ̀gbàjọba ní orílè-èdè Benin nítorí àwọn ẹ̀ṣọ́ ààbò tó máa n tẹ̀lẹ kò níye.,sarcastic,BBC News,original
+296,"Wọ́n npe ibìkan ní Ìyágànkú ní Ìbàdàn. Ilé Manchester United nìyẹn, nítorí ìyá ti gan kú síwọn lára",sarcastic,Facebook,original
+297,"Ọlọ́tẹ̀ ni BBC Yorùbá, nítorí Man City tó kó mẹ́wàá fúnyàn lánàá, níbo ní àwọ́n kò góòlù tiwọn sí nígbà tí wọ́n kojúú Brighton",sarcastic,Facebook,original
+298,"Ìgbájú ìgbámú ni kẹríkẹrì bá tòdee bọ̀, Manchester United, ọwọ́ ba kórópọ̀n yín méjèèjì.",sarcastic,BBC News,original
+299,"Báyé bá njáyé, bí Paul Biya bá ṣì wà lórí oyè ni Cameroon, ọ̀rọ̀ bí ìyà bí ìyà kò tíì lè tán nínú ayé Manchester United",sarcastic,BBC News,original
+300,"Òjò ẹ̀sín àti ìyà tún rọ̀ lé Anfaani Adugbo, ìyẹn Manchester United, lórí lẹ́yìn tí wọ́n lè Amori lọ",sarcastic,BBC News,original
+301,"Arsenal, Oriogbade FC, ṣìrìn nílé Aston Villa, àánú ìkúnlẹ́ abiyamọ ṣe wá nígbà tí ìfẹsẹ̀wọnsẹ̀ parí",sarcastic,BBC News,original
+302,"Eré orí igi ló bá dé fún Erinlákátabú FC, iyen Arsenal, lẹ́yìn tí wọ́n kó igi bo orí Burnley.",sarcastic,BBC News,original
+303,"Erin lákátabú Oriogbade FC, ìyẹn Arsenal ti gòkè àlọ, Fulham ni wọ́n fi ṣe ìrúbọ àti gori tábìlì EPL.",sarcastic,BBC News,original
+304,"Ọmọ inú ọká ní ṣekúpa ọká,  Danny Welbeck tó ti gbá bọ́ọ̀lù rí fún Man United náà ló dá iyẹ̀pẹ̀ sí gaàrí wọn.",sarcastic,BBC News,original
+305,"Ẹ yéé fi Wizkid wé Fẹlá mọ, ọ̀rọ̀ àbùkù àti agọ̀ ni, Seun Kuti yarí",sarcastic,BBC News,original
+306,"Pìtìpìtì ayé bá Portsmouth! Martinelli kanra ti Liverpool mọ́ wọn, fi wọ́n ṣe àsun ìrọ̀lẹ ọjó ìsinmi fáwọn olólùfẹ́ Oriogbade, ìyẹn Arsenal.",sarcastic,BBC News,original
+307,"Ewúrẹ́ Algeria binú, fẹsẹ̀ halẹ̀, àjẹkún ìyà ni wọ́n fi jẹ lọ́wọ Super Eagles Nàìjíríà.",sarcastic,BBC News,original
+308,"E yé sọ̀rọ̀ òdì sí orílẹ̀-èdè Nàìjíríà mọ́, dípò béẹ̀, ẹ máa ṣadúrà ni",sarcastic,BBC News,original
+309,"Ríi dájú pé èso rere lò n gbìn ní gbogbo ibi tó o bá dé, àṣesilẹ̀, kò sí bó ṣe le wù kó pé tó, o máa ká gbogbo ohun to bá gbìn lọ́jó kan.",non-sarcastic,BBC News,original
+310,"Ṣé òkè ténté tábìlì ni oríògbadé FC yóò bá wọ ọdún 2026, àbí wọn yóò já gẹ́gẹ́bí ìṣe wọn?",sarcastic,BBC News,original
+311,"Njẹ́ ọkọ̀ Chelsea tí kò ní dẹ́rẹ́bà yìí lè borí Man City, àbí àpò ni wọn yóò fi kó òdo lọ sílé?",sarcastic,BBC News,original
+312,Wọ́n fiọ́ j'Ọba o tún nṣ'àwúre; ṣé o fẹ́ di Elédùmarè ni🤷‍♂️,sarcastic,Facebook,original
+313,Màlúù tí kò nírù Chelsea takú sọ́rùn Man City pé kò sí àyè láti fibẹ̀ ṣe ilé eṣinṣin,sarcastic,BBC News,original
+314,"Njẹ́ ọkọ̀ Chelsea tí kò ní dẹ́rẹ́bà yìí lè borí Man City, àbí àpò ni wọn yóò fi kó òdo lọ sílé?",sarcastic,BBC News,original
+315,"Ànfààní Adúgbò, ìyẹn Manchester United, ti fọwọ́ òsì júwe ilé fún Ruben Amorim pé kó máa lọ",sarcastic,BBC News,original
+316,"Arsenal Oriogbade bínú tán, pàwọn ọlọ́tẹ̀ lẹ́nu mọ́, àlùdákú ni wọ́n lu Club Brugge mọ́lé.",sarcastic,BBC News,original
+317,"Ayé ò! Atalanta lagi mọ́ Chelsea lórí láwọlé sùn, fa aṣọ iyì ya mọ́ Aníyìkáyé FC lára.",sarcastic,BBC News,original
+318,"Olúwa tó yí orúkọ Ábráhámù àti Jákọ́bù padà, yi o báwa yí orúkọ Arsenal tí 'BBC News Yoruba' ti sọ di 'Oriogbade' padà sí 'Oriade' 🙏",sarcastic,BBC News,original
+319,Alvaro Arbeloa tó jẹ́ akẹgbẹ́ Xabi Alonso tẹ́lẹ̀ ní ẹgbẹ́ agbábọ́ọ̀lù Liverpool ni akọ́nimọ̀ọ́gbá tuntun Real Madrid báyìí.,non-sarcastic,BBC News,original
+320,"Egbìnrìn ọ̀tè, bí a ti ńpa kan ni ọ̀kan ńrú.",non-sarcastic,BBC News,original
+321,"Aya Ààrẹ ilẹ̀ wa sọ̀rọ̀ yìí lójú òpó Facebook rẹ̀, pẹ̀lú àlàyé pé àdúrà àti ọ̀rọ̀ rere ló yẹ Naijiria, ọ̀rọ̀ burúkú kọ́.",non-sarcastic,BBC News,original
+322,"Àmọ̀rí kọ́ ni ìṣòro ẹgbẹ́ agbábọ́ọ̀lù Manchester United. Ẹ̀san òjóóró tí wọ́n ṣe nígbà tí Alex Ferguson jẹ́ Kóòsì wọn ló ń ké lórí wọn. Bí wọ́n ò bá múra, wọ́n máa religéètì gbẹ̀yìn..",sarcastic,BBC News,original
+323,"Erin lákátabú Oriogbade FC, ìyẹn Arsenal, kí ojú aláṣejù Crystal Palace bọ omi gbígbóná láti jókòó rẹ̀pẹ̀tẹ̀ sórí tábìlì EPL.",sarcastic,BBC News,original
+324,"Ṣé ọ̀rọ̀ yìí kò ti di ẹni a lè mú làá lẹ̀dí mọ́ báyìí? Níbo ni Oriogbade, ìyẹn Arsenal, fi gbogbo góòlù yìí sí nígbà tí wọ́n kojú Liverpool?",sarcastic,BBC News,original
+325,"Ọdún dé, ọdún jọ, ọdún jọ, ọdún dé, ọdún jọ, ọdún jọ o, ará ẹ bá mi yọ̀, ọdún dé o.",non-sarcastic,X,original
+326,"Ẹ gbẹ̀mí ẹni tó bá sùn, nítorí ẹni tó bá sùn kò níí sún",sarcastic,Instagram,original
+327,"Tí onílé rẹ bá nṣe ìgbéraga sí ẹ, kí o lọ jalè láti rí owó kọ́ ilé tiẹ. Bí o tilẹ̀ jẹ́ wípé wọ́n lè mú ẹ tí o bá ti lọ jalè náà, yóò dójú tí onílé rẹ.",sarcastic,Instagram,original
+328,"Dípò kí o ṣègbéyàwó, o lè bẹ̀rẹ̀ síí ṣe aṣẹ́wó nítorí pé o lè rí owó púpọ̀ gbà lọ́wọ́ ìbálòpọ̀ tí ìwọ ì bá ti fún ọkọ rẹ lọ́fẹ̀ẹ́. Bótilẹ̀jẹ́pẹ́ abẹ́ rẹ lè gbóná gaan.",sarcastic,Instagram,original
+329,"Tí gbogbo àwọn ẹbíì rẹ bá ń retí pé kí o ṣoríire kí o lè bẹ̀rẹ̀ ìrànlọ́wọ́ fún wọn, ṣe oríibú kí o lè ṣe ìyàlẹ́nu fún wọn.",sarcastic,Instagram,original
+330,"Má ṣe fẹ́ ìyàwó tó máa fún ẹ ní Ìfọ̀kànbalẹ̀, nítorí Ìfọ̀kànbalẹ̀ díẹ̀, ogún diẹ la fí ngbé ilé ayé. ",sarcastic,Instagram,original
+331,"Tío bá fẹ́ ìyàwó tó sàn lórí, to bá yọ àdá, ìwọ náà á yọ ọ̀bẹ. Báyìí ní ìgbéyàwó yín yóò fi máa dùn, bótilẹ̀jẹ́pẹ́ ẹnìkan lè pa ẹnìkejì lọ́jọ́ kan",sarcastic,Instagram,original
+332,"Tí ìyàwó rẹ bá ń ṣe àgbèrè, kí ìwọ náà lọ ṣé àgbèrè ni. Bó tilẹ̀ jẹ́ pé ẹ̀yin méjèèjì lè kó ààrùn, ó sàn kí o kí ẹ kú papọ̀ kí o sì mọ̀ pé o ti gbẹ̀san.",sarcastic,Instagram,original
+333,"Má ṣe fi ìyàwó rẹ sílẹ̀ nítorí pé ó ń ṣe àgbèrè. Ó ṣeé ṣe kí ó jẹ́ ọ̀kan lára àwọn tí ó ń ṣẹ́ àgbèrè pẹ̀lú ní yóò ràn ọ́ lọ́wọ́ nígbẹ̀yìn-gbẹ́yín, bó tilẹ̀ jẹ́ pé o lè máa tọ́jú àkóràn.",sarcastic,Instagram,original
+334,"Tí àwọn ẹbí bá ń béèrè owó lọ́wọ́ rẹ ju bó ṣe yẹ lọ, tí wọ́n sì ń gbèrò láti pa ọ́, jẹ́ kí wọ́n tẹ̀síwájú. Bó tilẹ̀ jẹ́ pé o máa di aláìní, ẹlẹ́dàá rẹ yóò fìyà jẹ wọ́n.",sarcastic,Instagram,original
+335,"Tí o bá ní ọ̀rẹ́bìnrin kan tí ó ń tì ọ́ lẹ́yìn nígbà tí o kò jẹ́ ọlọ́rọ̀, fi sílẹ̀ nígbàkúgbà tí o bá di ọlọ́rọ̀, kí ọ̀rẹ́bìnrin náà lè lọ ran ọkùnrin mìíràn tí kò tíì di ọlọ́rọ̀ lọ́wọ́.",sarcastic,Instagram,original
+336,"Tí ọ̀rẹ́kùnrin rẹ bá fẹ́ fi ọ́ sílẹ̀, o yẹ kí o pa ara rẹ kí o lè ba orúkọ rẹ̀ jẹ́. Èyí yóò kọ́ọ ní ẹ̀kọ́, bó tilẹ̀ jẹ́ pé  ìwọ́ á ti ṣòfò dànù.",sarcastic,Instagram,original
+337,"Tí ọmọbìnrin bá fi ọ́ sílẹ̀, ohun tó dára jù fún ọ ni kí o má ṣe tẹ̀síwájú, nítorí náà kò ní rò pé ó gbọ́n ju ọ lọ.",sarcastic,Instagram,original
+338,"Tí ẹnìkan bá fẹ̀sùn kàn ọ́ pé o bá wọn pẹ̀lú ṣe adigunjalè, ohun tó dára jù ni pé kí o má ṣe sẹ́. Tí o bá sẹ́, tí wọ́n sì dá ọ sílẹ̀, àwọn ènìyàn kan yóò rò pé ẹ̀rù ń bà ọ́ láti ṣe ẹ̀wọ̀n ni.",sarcastic,Instagram,original
+339,"Ọkùnrin mi, fi ara rẹ sílẹ̀ nígbàkúgbà tí o bá rẹ̀wẹ̀sì. Nígbà tí o bá juwọ́ sílẹ̀, ó dájú pé o máa di ẹrú, ṣùgbọ́n ó sàn ju gbígbé ẹrù ìdílé lọ.",sarcastic,Instagram,original
+340,"Tí ọmọbìnrin bá fi ọ́ sílẹ̀, ohun tó dára jù fún ọ ni kí o pa ara rẹ. Ẹlẹ́dàá rẹ lè fìyà jẹ ẹ́, bó tilẹ̀ jẹ́ pé ìwọ á ti kú.",sarcastic,Instagram,original
+341,"Tí èèyàn bá gbà ọ́ nímọ̀ràn pé kí o má mu igbo, má ṣe dá a lóhùn nítorí pé ó máa ń pa ìrònú rẹ́. Bó tilẹ̀ jẹ́ pé o lè má pẹ́ láyé, ó sàn kí o kú láìpẹ́ ju kí o máa gbé pẹ̀lú ìrònú lọ.",sarcastic,Instagram,original
+342,"Tí àwọn ajínigbé bá jí ọ gbé, má ṣe sá lọ, máa wàásù fún wọn ni, bó tilẹ̀ jẹ́ pé wọ́n lè pa ọ́, ṣùgbọ́n orí rẹ yóò fìyà jẹ wọ́n.",sarcastic,Instagram,original
+343,"Tí èèyàn bá ṣe ẹ́ lóore, fí ibi sán fún padà; fífi òòrè san oore ti wọ́pọ̀ jù, ibi ló lè jọ olóore rẹ lójú.",sarcastic,Instagram,original
+344,"Nígbà tí o bá ti mọ̀ pé ọ̀rẹ́kùnrin rẹ ń gbìyànjú láti fi ọ́ sílẹ̀, lóyún fún kí o fí dèé mọ́lẹ̀",sarcastic,Instagram,original
+345,"Mo ńṣe ìlérí fún ọ pé nígbàkúgbà tí mo bá fẹ́ ọ, n kò ní ṣe panṣágà. Dípò kí n ṣe panṣágà, màá fẹ́ ẹlòmíràn kún ọ tí ó lè gbọ́ bùkátà àwa méjèèjì.",sarcastic,Instagram,original
+346,"Tí o bá ṣe àṣìṣe fi owó ránṣẹ́ sí ẹnìkan, fi owó púpọ̀ ránṣẹ́ síí fún ẹni náà. Báyìí, àwọn agbófinró yóò mú oníjìbìtì náà nítorí kò níí lè ṣàlàyé ibi tí owó náà ti wá.",sarcastic,Instagram,original
+347,"Gẹ́gẹ́ bí agbófinró, ó yẹ kí ìwọ́ náà wà nínú igbó láti fí ṣe àfihàn wípé ẹ mọ iṣẹ gẹ́gẹ́bí àwọn ọmọ ogun Nàìjíríà. Bó tilẹ̀ jẹ́ pé wọ́n lè pa ọ́, o mọ̀ pé o ti ṣiṣẹ́ fún orílẹ̀-èdè rẹ, o sì ti di akọni orílẹ̀-èdè.",sarcastic,Instagram,original
+348,"Tí ọkọ rẹ bá ń tọ́jú rẹ àti gbogbo àìní rẹ dáadáa ṣùgbọ́n tí kò kìí sọ fún ọ wípé òún ní ìfẹ́ẹ̀ rẹ lọ́pọ̀lọpọ̀ ìgbà, o yẹ kí o kọ̀ọ́ sílẹ̀ kí o sì máa pààrọ̀ rẹ̀ títí di orí ọkọ keje, bó tilẹ̀ jẹ́ pé ìdí rẹ lè gbóná.",sarcastic,Instagram,original
+349,"Tí o bá fẹ́ pẹ́ láyé, ó yẹ kí o máa jẹ gbèsè káàkiri, wọn kò níí fẹ́ kí o kú, bó tilẹ̀ jẹ́ pé orúkọ rere rẹ yóò ti bàjẹ́.",sarcastic,Instagram,original
+350,"Bí ọkọ rẹ bá ń lù ọ́, o kò nílò láti fi ìgbéyàwó náà sílẹ̀ nítorí àwọn ènìyàn yóò gbàgbọ́ pé o kò ní ìfaradà, bó tilẹ̀ jẹ́ pé ó lè pa ọ́ ní ọjọ́ kan.",sarcastic,Instagram,original
+351,"Tí ẹni tí o jẹ lówó bá ndà ẹ láàmú , kú sí l'ọ́rùn ni.  Bó tilẹ̀ jẹ́ pé ìwọ́ ti kú, o ti fi ikú rẹ kó báa nìyẹn",sarcastic,Instagram,original
+352,"Tí o bá fi owó ránṣẹ́ sí àkọọ́lẹ̀ báńkì tí kò tọ́, dípò kí o gbìyànjú láti gbà á, ó yẹ kí o fi owó púpọ̀ sí àkọọ́lẹ̀ wọn kí àwọn ọlọ́pàá lè mú wọn. Bó tilẹ̀ jẹ́ pé o máa jẹ gbèsè, o ti kọ́ wọn láti má ṣe da owó ẹlòmíràn mọ́ tiwọn.",sarcastic,Instagram,original
+353,"Má ṣe pàdánù ọ̀rẹ́kùnrin rẹ àtijọ́ nítorí pé o ti ṣe ìgbéyàwó báyìí. Tí ọkọ rẹ kò bá fẹ́ kí ó rí bẹ́ẹ̀, o yẹ kí o kọ̀ọ́ sílẹ̀.",sarcastic,Instagram,original
+354,"Tí ẹnìkan bá fẹ́ fi ọtí ba ayé rẹ jẹ́, fi ọtí sílẹ̀ kí o sì bẹ̀rẹ̀ síí ta tẹ́tẹ́. Bó tilẹ̀ jẹ́ pé tẹ́tẹ́ náà lè pa ọ́ run, ṣùgbọ́n ìwọ yóò ní ìgbéraga pé ìwọ fúnra rẹ ni o pa ayé rẹ run, tí onítọ̀hún kò níí lè fọ́nnu nípa pípa ọ́ run.",sarcastic,Instagram,original
+355,"Má ṣe fi ìyàwó rẹ sílẹ̀ nítorí pé ọkùnrin mìíràn fún-un lóyún, nítorí ó ṣeé ṣe kó jé wípé ọmọ àlè tí ó bí ló máa mú àṣeyọrí wá sí iléè rẹ.",sarcastic,Instagram,original
+356,"Má ṣe jẹ́ kí ẹnikẹ́ni dẹ́rù bà ọ́ nítorí pé ọmọ ogun ni wọ́n. Gbogbo ọmọ ogun tó bá gbá ọ létí, rí i dájú pé o gbá tìrẹ. Bó tilẹ̀ jẹ́ pé ó lè kọlù ọ́ kí ó sì fi ọ̀bẹ pa ọ́, ìwọ yóò fi ìyẹn kóbá onítọ̀hún.",sarcastic,Instagram,original
+357,"Tí wọ́n bá mú ọ nígbà tí o ńjalè, o kò ní láti bẹ̀rù nítorí pé ó máa dàbí ọ̀lẹ ni. Bó tilẹ̀ jẹ́ pé wọ́n lè ti lù ọ́ ní àlùbàjẹ́, ó fi agbára rẹ hàn ni.",sarcastic,Instagram,original
+358,"Tí o bá bí ọmọ tí kò sì fẹ́ lọ sílé ìwé, má ṣe fipá mú un. Tí ó bá sọ pé òun nífẹ̀ẹ́ sí olè jíjà, o lè ràn án lọ́wọ́ láti rí àwọn ohun èlò olè jíjà, bó tilẹ̀ jẹ́ pé wọ́n lè paá lọ́jọ́ kan.",sarcastic,Instagram,original
+359,"Dípò kí o máa jó láti polówó fíìmù rẹ fún àwọn olólùfẹ́ rẹ, o lè lọ jalè. Tí wọ́n bá mú ọ, àwọn olólùfẹ́ rẹ lè ṣàánú rẹ kí wọ́n sì wo fíìmù rẹ nígbẹ̀yìn-gbẹ́yín, bó tilẹ̀ jẹ́ pé àwọn èèyàn lè ti lù ọ́ bàjẹ́.",sarcastic,Instagram,original
+360,"Tí ọkọ rẹ bá ń gbìyànjú láti mú kí ìgbésí ayé rọrùn fún ọ nílé, o ní láti kọ̀ ọ́ sílẹ̀ kí àwọn ọmọ rẹ lè kó àwọn ìrírí tó báramu jọ, bó tilẹ̀ jẹ́ pé o lè kú nítorí wàhálà",sarcastic,Instagram,original
+361,"Tí agbófinró Nàìjíríà kan bá sọ fún ọ pé kí o ṣí fóònù rẹ, má ṣe dá a lóhùn. Bí ó tilẹ̀ fẹ́ pa ọ́, o kàn máa kú lẹ́ẹ̀kan ṣoṣo, bó tilẹ̀ jẹ́ pé ẹ̀mí rẹ yóò ti ṣòfò.",sarcastic,Instagram,original
+362,"Ó sàn kí a kú nípò akọni ju kí a gbé ìgbésí ayé ojo, bó tilẹ̀ jẹ́ pé ẹ̀mí ènìyàn náà  á ti ṣòfò.",sarcastic,Instagram,original
+363,"Nítorí wípé ìyàwó Ned Nwoko n mu igbó, kò túmọ sí wípé ọmọ burúkú ni. Ó lè jẹ́ igbó tí ìyàwó náà ni mu ni àwọn èèyàn yóò fi máa wárí fún Ned Nwoko, bó tilẹ̀ jẹ́ wípé igbó lè ya obìnrin náà ní wèrè",sarcastic,Instagram,original
+364,"Bó tilẹ̀ jẹ́ pé ọkọ rẹ̀ ń lùú, ẹ bá Regina Daniels sọ̀rọ̀ láti padà sí ilé ọkọ rẹ̀; kò nílò láti lọ nítorí lílù díẹ̀díẹ̀ tó ti lè kọ́ ẹ̀kọ́, bó tilẹ̀ jẹ́ wípé wọ́n lè lùú pa lọ́jọ́ kan.",sarcastic,Instagram,original
+365,Ó sàn kí èèyàn sunkún nínú ọkọ̀ Lamborghini ju kí ó máa rẹ́ẹ̀rín nínú kẹ̀kẹ́ Márúwá,sarcastic,Instagram,original
+366,"Tí o bá ní ọ̀rẹ́ kan tó fẹ́ kọ́ ọ bí o ṣe ń pa ẹja, má ṣe dáa lóhùn. Nítorí pé ó sàn kí ó máa fún ọ ní ẹja jẹ ju kí ó kọ́ ọ bí o ṣe ń pẹja lọ, nítorí pé odò lè gbé ọ lọ.",sarcastic,Instagram,original
+367,"Àwọn tó ń ràn ọ́ lọ́wọ́ tẹ́lẹ̀ kò ní fẹ́ ràn ọ́ lọ́wọ́ mọ́ lẹ́sẹ̀kẹsẹ̀ tí wọ́n bá mọ̀ pé o ń ṣiṣẹ̀ owó, nítorí náà ó sàn kí o fikún iye àwọn ènìyàn tí o ń tọrọ owó lọ́wọ́ọ wọn sí i dípò kí o ṣiṣẹ́, bó tilẹ̀ jẹ́ pé o lè má ṣe àṣeyọrí ní ìgbésí ayé rẹ.",sarcastic,Instagram,original
+368,"Tí ẹnìkan bá fẹ́ pa ọ́ nípa fífi májèlé sínú oúnjẹ́ rẹ, má ṣe yára wá ẹ̀rọ tàbí kí o gbìyànjú láti dé ilé ìwòsàn kíákíá, nítorí pé àwọn èèyàn yóò lérò wípé o bẹ̀rù ikú ni",sarcastic,Instagram,original
+369,"Tí ẹnìkan bá ń gbà ọ́ nímọ̀ràn pé kí o má ṣe kánjú ní ìgbésí ayé, má ṣe dá a lóhùn, nítorí pé tí o kò bá yára ṣe nǹkan, kódà nípa ṣíṣe nǹkan búburú, o lè má ṣe àṣeyọrí ní àkókò.",sarcastic,Instagram,original
+370,"Ohunkóhun tí àwọn ọ̀rẹ́ rẹ bá ń ṣe láti rí owó, kódà bí wọ́n bá ń jalè, lọ ṣe. Tí o kò bá ṣe àwọn nǹkan wọ̀nyí, wọn yóò gbàgbọ́ pé ojo ni ọ́, bó tilẹ̀ jẹ́ pé o lè ya wèrè, ṣùgbọ́n ìwọ pẹ̀lú àwọn ọ̀rẹ́ rẹ á jọ ṣe wèrè ni.",sarcastic,Instagram,original
+371,"Owó tí o bá fẹ́ lò láti tún fóònù àtijọ́ ṣe, o lè lòó fún òògùn owó. Ohun tó burú jù tí o lè rí ni kí o ya wèrè, ṣùgbọ́n o máa rí owó, oó sì máa ń gbé ìgbésí ayé ọlọ́lá",sarcastic,Instagram,original
+372,"Tí o bá wọ inú ìdèkùn kan tí wọ́n sì jí ọ gbé, má ṣe pe àwọn olùrànlọ́wọ́ rẹ ju ìgbà méjì lọ nítorí pé wọ́n ti kọ́ ọ láti pe lẹ́ẹ̀mejì péré, kí o má baà hùwà bí aláìmọ̀wé nígbà tí o bá ń wá ìrànlọ́wọ́ láti san owó ìràpadà rẹ kí wọ́n lè dá ọ sílẹ̀.",sarcastic,Instagram,original
+373,"Tí agbófinró Nàìjíríà kan bá mú ọ níbi tí wọ́n ti ń ta igbó, má bẹ̀bẹ̀, má sì sá lọ. Ó lè rò pé ẹ̀rù ń bà ọ́ láti wà ní àtìmọ́lé, bó tilẹ̀ jẹ́ pé ìgbésí ayé rẹ lè dàrú.",sarcastic,Instagram,original
+374,"Tí ẹnìkan bá gbìyànjú láti pa ọ́ tí o sì sá àsálà, má ṣe gbé ẹni náà lọ sí àgọ́ ọlọ́pàá tàbí kí o fi ẹ̀sùn kàn-án nílé ẹjọ́. Bó tilẹ̀ jẹ́ pé ó lè padà pa ọ́ nígbà tó bá yá, ṣùgbọ́n ìwọ á ti fi ikú rẹ ṣe àkóbá fún ẹni náà.",sarcastic,Instagram,original
+375,"Tí agbófinró Nàìjíríà kan bá sọ fún ọ pé kí o ṣí fóònù rẹ, má ṣe dá a lóhùn. Bí ó tilẹ̀ fẹ́ pa ọ́, o kàn máa kú lẹ́ẹ̀kan ṣoṣo, bó tilẹ̀ jẹ́ pé ẹ̀mí rẹ yóò ti ṣòfò.",sarcastic,Instagram,original
+376,"Tí o bá ń ṣiṣẹ́ pọ̀ pẹ̀lú ọ̀rẹ́ rẹ láti lè ní láárí, tí ó sì ń rí owó ju ọ́ lọ, ó sàn kí ọ sa òògùn síi, bó tilẹ̀ jẹ́ wípé ẹ̀yin méjèèjì lè di èrò ẹ̀yìn papọ̀, kí ẹ sì jọ máa tọrọ jẹ.",sarcastic,Instagram,original
+377,"Ó yẹ kí o fẹ́ ọmọ aláìníbaba kí o má baà san owó orí rẹ̀, bó tilẹ̀ jẹ́ pé ó lè sá lọ pẹ̀lú àwọn ohun ìní rẹ lọ́jọ́ kan tí o kò sì ní mọ ibi tí óo wa sí, ṣùgbọ́n nípa gbígbé ìgbésẹ̀ irúfẹ́ yi la fí ngbé ilé ayé.",sarcastic,Instagram,original
+378,"Má tí torí pé o jẹ́ obìnrin kí o jòkó ti ọkùnrin ẹyọ̀kan. Ti ọkùnrin bá ní ànfààní láti fẹlẹ́ ìyàwó méjì, iwọ náà lè fẹ́ ọkọ méjì ti wàá sì máa darí wọn, bó tilẹ̀ jẹ́ wípé ìdí rẹ yóò gbóná",sarcastic,Instagram,original
+379,"Tí o bá ti ń gbìyànjú gbogbo agbára rẹ tí o kò sì tíì ríṣe, má ṣe gbìyànjú tàbí bẹ Ọlọ́run rẹ mọ́, lọ jalè dípò bẹ́ẹ̀. Bó tilẹ̀ jẹ́ pé wọ́n lè mú ọ kí wọ́n sì pa ọ́ níbi to ti lọ jalè, ṣùgbọ́n àwọn tí ó yẹ kí wọ́n ràn ọ́ lọ́wọ́ tí wọ́n kùnà lojú yóò tì.",sarcastic,Instagram,original
+380,"Tí o bá rí ènìyàn méjì tí wọ́n ń jà pẹ̀lú ohun ìjà bí igi, má ṣe fojú fo wọ́n, gbìyànjú láti là wọ́n. Bó tilẹ̀ jẹ́ pé wọ́n lè fọ́ igi mọ́ ẹ lórí tí òo sì gbabẹ̀ kú, wàá rí ẹ̀san gbà lọ́dọ̀ Ọlọ́run",sarcastic,Instagram,original
+381,"Tí o bá ń ṣiyèméjì bóyá ọ̀rẹ́kùnrin rẹ fẹ́ràn rẹ tàbí bẹ́ẹ̀ kọ́, lóyún fún un kí o lè dán-an wò, kò sì ní lè fara pamọ́ mọ́. Bó tilẹ̀ jẹ́ pé tí kò bá gbà, o lè jìyà kí o sì dá ọmọ tọ́, ṣùgbọ́n o ti mọ irú èèyàn tó jẹ́ báyẹn",sarcastic,Instagram,original
+382,"Kò sí bí owó tí o ń rí ní òkè òkun bá ṣe pé tó, má fi owó pamọ́ tàbí kí o ná owó lórí ara rẹ. Na gbogbo owó yẹn lórí àwọn ẹbí rẹ kí àwọn èèyàn má lè fiwọ́n ṣe yẹ̀yẹ́, bó tilẹ̀ jẹ́ pé o lè di aláìní kí o máa tọrọ jẹun.",sarcastic,Instagram,original
+383,"Nígbà tí o bá ti mọ̀ pé àwọn ẹ̀gbọ́n tàbí àbúrò rẹ ń gbìyànjú láti gbé orúkọ ìdílé yín ga, gbìyànjú láti ba orúkọ ìdílé jẹ́. Nítorí pé bí gbogbo yín bá ń ṣe oríire ní àkókò kan náà, ìdíje lè pọ̀ jù.",sarcastic,Instagram,original
+384,"Tí o bá jẹ́rìí sí apànìyàn kan nílé ẹjọ́, tí ó sì ṣẹ́gun nígbẹ̀yìn-gbẹ́yín, má ṣe sá kúrò ní ìlú. Bó tilẹ̀ jẹ́ pé ó lè pa ọ́ tí o kò bá sá lọ, ó ti kó báa báyẹn.",sarcastic,Instagram,original
+385,"Tí o bá rí i pé ọkàn àwọn òbí rẹ ti ń balẹ̀ jù, máa mu igbó díẹ̀ díẹ̀ kí o lè máa gbé ẹ̀mí wọn gbóná. Ìbànújẹ díẹ̀ ayọ̀ díẹ̀ lèèyán fi nlo ilé ayé, bó tilẹ̀ jẹ́ pé igbó náà lè padà yà ọ́ ní wèrè.",sarcastic,Instagram,original
+386,"Tí o bá ṣe ìgbéyàwó tí ọkọ rẹ bẹ̀rẹ̀ síí ṣe àgbèrè, má ṣe fi ìgbéyàwó náà sílẹ̀ ṣùgbọ́n kí o lọ ṣe ìwọ náà máa ṣe àgbèrè láti gbẹ̀san, bó tilẹ̀ jẹ́ pé ẹ̀yin méjèèjì lè padà kó àkóràn nígbà tó bá yá.",sarcastic,Instagram,original
+387,"Tí o bá bímọ fún ọkùnrin kan tí kò sì gbà á, ṣùgbọ́n tí o padà wá nígbà tí ọmọ náà bá dàgbà, lóyún fún lẹ́ẹ̀kan síi kí o lè fi í ṣe ẹlẹ́yà, nítorí pé kò sí obìnrin tí yóò fẹ́ fẹ́ẹ mọ́, bó tilẹ̀ jẹ́ pé o lè dá àwọn ọmọ náà tọ́.",sarcastic,Instagram,original
+388,"Gẹ́gẹ́ bi ọkùnrin, àwọn ọkùnrin ẹgbẹ́ẹ̀ rẹ ló yẹ kó máa gbé kí wọ́n lè máa fún ọ lówó lẹ́yìn ìbálòpọ̀, bó tilẹ̀ jẹ́pé ìdí rẹ yóò bàjẹ́",sarcastic,Instagram,original
+389,"Tí o bá bímọ tó ńjalè, má bawí má sì tú àṣírí rẹ̀ síta. Bo tilẹ̀ jẹ́ wípé ó lè já olè náà títí tí wọ́n yóò fi pá dànù, o dará ju kí o tú àṣírí rẹ̀ síta",sarcastic,Instagram,original
+390,"Má sọ pé o kò níí fẹ́ obìnrin nítorí pé ó ti lọ ilé ọkọ bíi mẹ́rin tẹ́lẹ̀, nítorí o lè jẹ́ ìwọ ni ẹni tí a kọ papọ̀ fún láti ọ̀run",sarcastic,Instagram,original
+391,"Tí ẹnìkan bá jí ọ gbé tí o sì ní àǹfààní láti sá àsálà, o kò gbọdọ̀ sá àsálà. Fojú inú wo gbogbo wàhálà tí ẹni tí ó jí ọ gbé ti ṣe kí ó tó lè jí ọ gbé.",sarcastic,Instagram,original
+392,"Tí o bá fẹ́ ṣe ìgbéyàwó, tí o sì ń ṣiyèméjì bóyá ó yẹ kí o fẹ́ ọ̀rẹ́kùnrin rẹ tí ó máa ń lù ọ́ ní gbogbo ìgbà tàbí kí o má fẹ, ó yẹ kí o fẹ́ẹ, bí bẹ́ẹ̀ kọ́, o lè máa dá ara rẹ lẹ́bi pé o kò fún un ní àǹfààní láti ṣàyẹ̀wò bóyá ó lè yípadà.",sarcastic,Instagram,original
+393,"Tí o bá fẹ́ ọ̀rẹ́kùnrin rẹ tó máa ń lù ọ́ ní gbogbo ìgbà, ó sàn fún ọ nítorí pé ìwọ yóò ní ìrírí púpọ̀ sí i, wàá sì lè pín wọn pẹ̀lú àwọn ọmọ ìyáà rẹ.",sarcastic,Instagram,original
+394,"Tí olé bá njà ni àdúgbò yín lóòrèkóòrè, ẹ má ṣe pè agbófinró, nítorí tí àwọn olè náà bá ní ọ̀nà míràn ni, wọn kò ní máa jalè.",sarcastic,Instagram,original
+395,"Tí o bá kíyèsí wípé ọ̀rẹ́bìnrin rẹ kò fẹ́ràn rẹ, tí ó sì wà pẹ̀lú rẹ nítorí owó, má ṣe fií sílẹ̀, nítorí ó máa rò pé o ti òún ti búrẹ́dì kó ẹ lọ́bẹ̀ jẹ, bó tilẹ̀ jẹ́ pé o lè padà ma lówó lọ́wọ́ mọ́ nígbẹ̀yìn-gbẹ́yín.",sarcastic,Instagram,original
+396,"Tí o bá ti nrí oúnjẹ jẹ ní àkókò, má ṣe dààmú láti rí owó nítorí pé ìdààmú lásán ní àti wípé bí àwọn ẹbí rẹ bá ríi pé o ní owó, wọn yóò máa wá bá ọ fún owó, bó tilẹ̀ jẹ́ pé o lè padà wọnú ìṣẹ́ lẹ́yìn náà.",sarcastic,Instagram,original
+397,"Má tí torí wípé o wà nínú ìgbéyàwó kí o fàyà gba ọrọ láti ọ̀dọ ọkọ rẹ lóòrèkóòrè, kí o máa kúrò nílé ọkọ ló dára, títí yóò fi tẹ́ ọ lọ́rùn",sarcastic,Instagram,original
+398,"Ẹ̀yin ti Morocco, ẹ fi aṣo ìnujú wa tí ẹ mú nu omijé bí ẹ ti wo lulẹ̀ ní ìpele àṣekágbá ìdíje AFCON lọ́jọ́ Àìkú",sarcastic,Facebook,original
+399,"Aṣọ ò bá ọmọ́yẹ Super Eagles mọ́, ikọ̀ agbábọ́ọ̀lù Nàìjíríà ti rìn wọjà, DR Congo lo tì wọ́n dànù lójú ònà àti pegedé fún ìdíje Ìfe Èyẹ Àgbáyé 2026",sarcastic,BBC News,original
+400,"Tí wọ́n bá ṣe atọ́nà fún àwọn ọmọ tó ń ṣe ""Yahoo"", wọ́n máa wúlò láti mú ìgbéga bá orílẹ̀ èdè.",sarcastic,BBC News,original
+401,Ẹni tó kékọ̀ọ́ gboyè fásitì sàn ju bàbá olówó tí kò kàwé lọ,sarcastic,BBC News,original
+402,Mo fi àkókò yí rọ gbogbo àwọn alátìlẹ́yìn Manchester United láti jẹ oúnjẹ alẹ́ wọn kí wọ́n tó lọ wo eré bọ́ọ̀lù náà. Nítorí iṣu Manchester United ma sùn sínú epo Liverpool lónìí,sarcastic,BBC News,original
+403,"Ẹ̀dá ò láròpin! Anfààní Àdúgbò FC, ìyẹn Manchester United, táyé ti sọ irètí nù lórí wọn lu Liverpool lálùmólè bí àpò ẹ̀wà",sarcastic,BBC News,original
+404,"Arsenal Erin lákátabú Oriogbade FC ti gòkè àlọ̀, Fulham ni wọ́n fi șe ìrúbọ àti gorí tábìlì EPL",sarcastic,BBC News,original
+405,"Lórí erinlákátabú Arsenal tó ń pa kúkúrú, tó ń pa gúngùn ninu EPL yìí, Bàbá gba ọpẹ́ wa",sarcastic,BBC News,original
+406,"Lẹ́yìn ìṣẹ́jú mókànlélógún ifesewonse pẹ̀lú Chelsea, ẹgbẹ́ agbábọ́ọ̀lù Nottingham Forest fi ọwọ́ òsì júwe ilé fún Ange Postecoglou bíi akọ́nimọ̀ọ́gbá",sarcastic,BBC News,original
+407,"Àwọn ọmọ ìyá aláró, ìyẹn Chelsea, fẹ́ràn káàdì pùpá púpọ̀ 😂😂",sarcastic,Facebook,original
+408,"Ẹ̀jẹ̀ lẹ́nu ọ̀daràn, Aníyìkáyé, ìyẹn Chelsea, fún Nottingham Forest lọ́rùn pa bí ó tilẹ̀ jẹ́ pé wọ́n Șépè káàdì pupa fún wọn",sarcastic,BBC News,original
+409,"Hmmm, Oshimen fakọyọ ṣùgbọ́n ẹni tí a lè mú ní à ń lẹ̀dí mọ́ ló bá dé ní pápá ìṣeré Uyo lálẹ́ yìí pẹ̀lú Benin Republic ",sarcastic,BBC News,original
+410,Super Eagles fi Benin Republic șe àsun pẹ̀lú ìrètí láti lọ fún ìdíje Ife Ẹ̀yẹ Àgbáyé,sarcastic,BBC News,original
+411,"Ìyàwó dùn lọ́sìngín! Gómìnà Abba Kabir Yusuf ti ìpínlẹ̀ Kano, ní ìjọba òun yóò ṣẹ́gun àgbèrè ṣíṣe látàrí àì lọ́kọ-láya",sarcastic,BBC News,original
+412,"Ìjọba Kano fẹ́ẹ́ șe igbéyàwó fún èèyàn ẹgbẹ̀rún méji láti ran àwọn tí kò r'ówó șe é lówó, dẹ́kun ṣìná ṣíṣe",sarcastic,BBC News,original
+413,"Àyànmó Super Eagles Nàìjíríà tún yí bírí bírí ní ìrìnàjò àti pegedé fún ìdíje Ife Ẹ̀yẹ Àgbáyé, bó tilẹ̀ jẹ́ pé wọ́n yan Lesotho jẹ",non-sarcastic,BBC News,original
+414,Àsikò tí wọ́n máa ń sọ pé oríléèdè Naijiria ni ìwà ìbàjẹ́ tó pò jùlọ lágbàáyé ti kọjá,sarcastic,BBC News,original
+415,"Aníyikáyé FC ìyẹn Chelsea bínú tán, òròmọ adìyẹ wọn fi àṣá Liverpool ṣe Súyà jẹ",sarcastic,BBC News,original
+416,"Ànfààní Àdúgbò iyen Manchester United, tọ́ àṣeyorí wò, wọ́n kanra lu Sunderland lónìí",sarcastic,BBC News,original
+417,"Oriogbade Arsenal yarí kanlẹ̀, àlùmọ́lẹ̀ bí ìlú bẹ̀ǹbẹ́ ni wọ́n lu West Ham ní Emirates",sarcastic,BBC News,original
+418,"Kò sí bí o bá ṣe ń jìyà tó, má ṣe béèrè ìrànlọ́wọ́ lọ́wọ́ ẹnikẹ́ni. Bó tilẹ̀ jẹ́ pé o lè kú nígbà sórí ìjìyà náà, kò sí ẹni tí yóò lè sọ pé òun ti ràn ọ́ lọ́wọ́ rí",sarcastic,BBC News,original
+419,"Tí o bá mọ̀ pé ọ̀rẹ́kùnrin rẹ máa ń ṣe òògùn owó, má ṣe sá fún. Bó tilẹ̀ jẹ́ pé ó lè padà lò ọ́ fún òògùn owó, tí o sì máa kú, tìrẹ ni yóò jẹ́ ìkẹyìn.",sarcastic,BBC News,original
+420,"Bàba kúdí ga ní ènìyàn, ó kàn nílátí gun àga kí ẹ tó ó ri ní àárín ọ̀pọ̀ ènìyàn",sarcastic,Crowdsourcing,original
+421,"O ti yó lo wí, o sì ṣíwọ́ nídì Àmàlà",sarcastic,Crowdsourcing,original
+422,"O kò lẹ́jọ́ láti rò, ẹnu rẹ kò sì dúró",sarcastic,Crowdsourcing,original
+423,"Mo láṣọ, mo láṣọ, abájọ tí wọ́n fi ṣi ọ̀ kó mọ́ wèrè",sarcastic,Crowdsourcing,original
+424,"Ó jẹun ó yó lótìtọ́, bíbẹ́kọ̀ yóò ti ṣe gbé abọ́ agbe",sarcastic,Crowdsourcing,original
+425,Ara mi kò gba èpè ni kò jẹ ki n ṣílẹ̀kùn fún ọ̀tá,non-sarcastic,Crowdsourcing,original
+426,"Mò n bọ̀, n ò tí ì dé",non-sarcastic,Crowdsourcing,original
+427,"Tó bá dé odò ẹni tí mo rán ẹ lọ ṣe àbẹ̀wò rẹ̀, ní ṣe ni ko sùn síbẹ̀, sé o gbọ́? ",sarcastic,Crowdsourcing,original
+428,Títí mọ̀wé ju kí ó ṣe ipò kíní lọ,sarcastic,Crowdsourcing,original
+429,"Ẹni tí a ní kí ó se nǹkan, tí o jẹ wípé òdì ló ń ṣe",non-sarcastic,Crowdsourcing,original
+430,"Nígbà tí o padà lówó lọ́wọ́ nígbẹ̀yìn-gbẹ́yín ní ìgbésí ayé rẹ, má ṣe gbàgbé àwọn tí wọ́n ń ràn ọ́ lọ́wọ́ kí owó tó dé, kí o tèbè sọ òǹkà ìpè wọn dànù kí wọ́n tó rántí rẹ, bó tilẹ̀ jẹ́ pé Ọlọ́run lè fìyà jẹ ọ́ nítorí náà.",sarcastic,Instagram,original
+431,"Tí o bá ti bí ọmọ kan tí o kò sì ní owó láti kọ́ ọ, bí ọmọ méjì sí i. Àwọn mẹ́tẹ̀ẹ̀ta yóò máa ṣe wàhálà papọ̀ nígbà tó bá yá, bó tilẹ̀ jẹ́ pé o lè má jàǹfààní èyíkéyìí nínú wọn.",sarcastic,Instagram,original
+432,"Tí o bá ń ṣe ìwà ẹ̀tàn tí agbófinró Nàìjíríà kan bá gbá ọ mú, jẹ́ kí wọ́n ṣàyẹ̀wò ẹ̀rọ ìbánisọ̀rọ̀ rẹ kí o sì sọ ohun tí o ń ṣe fún wọn, bó tilẹ̀ jẹ́ wípé o lè padà ṣẹ̀wọ̀n",sarcastic,Instagram,original
+433,"Tí o bá jẹ́ ọkùnrin tí o sì ń rí owó, fi owó dá ọ̀rẹ́bìnrin rẹ lóko òwò kí o tó tọ́jú àwọn òbí rẹ, bó tilẹ̀ jẹ́ pé ó lè fi ọ́ sílẹ̀ nígbà tí o kò bá lówó lọ́wọ́ mọ́, àmọ́ o ti ṣe ìgbìyànjú.",sarcastic,Instagram,original
+434,"Tí o bá fẹ́ gbéyàwó tí o sì ní láti yan láàrín ẹni tí ó ní ìdí ńlá àti ẹni tí ó ní ìwà rere, o yẹ kí o yan èyí àkọ́kọ́ fún láti lè máa fi yangàn, bó tilẹ̀ jẹ́ pé ó lè máa dààmú ìgbésí ayé rẹ àti ti ìdílé rẹ nígbà tó bá yá.",sarcastic,Instagram,original
+435,"Tí olè bá ń jalè níbì kan tí àwọn ènìyàn sì ń sá lọ, má ṣe sá lọ, bí bẹ́ẹ̀ kọ́, wọ́n á rí ọ gẹ́gẹ́ bí ojo, bó tilẹ̀ jẹ́ pé wọ́n lè pa ọ́.",sarcastic,Instagram,original
+436,"Nítorí pé o kò ní owó kò túmọ̀ sí pé o kò gbọ́dọ̀ fẹ́ ìyàwó méjì, nítorí pé ìyàwó kejì lè mú oríire wá fún ìdílé rẹ, bó tilẹ̀ jẹ́ pé gbogbo yín lè kú sínú ìyà",sarcastic,Instagram,original
