@@ -1,0 +1,35 @@
+{
+  "source_file": "Datasets/yoruba_sarcasm_data_compact.csv",
+  "total_rows": 436,
+  "splits": [
+    {
+      "strategy": "random_stratified",
+      "seed": 42,
+      "proportions": {
+        "train": 0.7,
+        "dev": 0.1,
+        "test": 0.2
+      },
+      "stratify_by": "target",
+      "counts": {
+        "train": 305,
+        "dev": 44,
+        "test": 87
+      },
+      "directory": "Splits/random_stratified_seed42"
+    },
+    {
+      "strategy": "bbc_heldout",
+      "seed": 42,
+      "test_filter": "source == \"BBC News\"",
+      "dev_proportion_of_train_pool": 0.1,
+      "stratify_by": "target",
+      "counts": {
+        "train": 136,
+        "dev": 15,
+        "test": 285
+      },
+      "directory": "Splits/bbc_heldout"
+    }
+  ]
+}
